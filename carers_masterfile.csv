@@ -1,0 +1,101 @@
+CarerID,WorkerType,Latitude,Longitude,PreferredAreaLatitude,PreferredAreaLongitude,MaxTravelDistanceMiles,ExperienceInYears,Skills,Gender,Languages,VehicleType,WorkingDays,OffDays,ShiftStart,ShiftEnd,ContractHoursPerWeek,MaxDailyHours,MaxWeeklyHours,PreferredShift,AvailabilityStatus
+C0001,Student,51.372966,-0.357305,51.419129,-0.332031,5,1,"Medication Support, Palliative Care",Other,"French, Arabic",Public Transport,Mon-Sat,Sunday,07:00,13:00,20,5,20,Morning,Partially Available
+C0002,Full-Time,51.310247,-0.362365,51.351372,-0.386422,8,8,"Dementia Care, Meal Preparation",Male,"French, Arabic",Bicycle,Flexible,Flexible,14:00,18:00,40,9,45,Morning,Available
+C0003,Part-Time,51.285564,0.046468,51.273665,-1.1e-05,5,5,"Medication Support, First Aid",Other,"Punjabi, Arabic",Public Transport,Flexible,Flexible,07:00,16:00,25,7,29,Morning,Available
+C0004,Full-Time,51.304277,-0.333752,51.346284,-0.352673,12,5,"Medication Support, Personal Care",Female,"French, Polish",Car,Weekends,Monday-Friday,09:00,16:00,35,12,44,Morning,Unavailable
+C0005,Student,51.567989,-0.033185,51.579583,0.015408,5,8,"Mobility Support, Companionship, Medication Support",Female,Hindi,Public Transport,Mon-Sat,Sunday,12:00,22:00,15,8,20,Flexible,Partially Available
+C0006,Student,51.46587,0.214638,51.424389,0.208381,8,0,"Dementia Care, Meal Preparation, Companionship",Female,Polish,Bicycle,Mon-Fri,"Saturday, Sunday",11:00,17:00,20,6,20,Night,Unavailable
+C0007,Part-Time,51.5201,0.169553,51.539058,0.199182,8,1,"Medication Support, Mobility Support, Companionship",Male,English,Car,Weekends,Monday-Friday,07:00,11:00,25,7,26,Night,Unavailable
+C0008,Part-Time,51.674517,-0.387902,51.625093,-0.419398,8,6,"Mobility Support, Companionship",Male,French,Public Transport,Flexible,Flexible,09:00,17:00,20,6,32,Night,Available
+C0009,Part-Time,51.653277,-0.496493,51.613529,-0.450749,12,2,"Companionship, Palliative Care",Male,"Spanish, Arabic",Car,Weekends,Monday-Friday,14:00,23:00,25,6,35,Flexible,Partially Available
+C0010,Part-Time,51.477201,-0.052101,51.433348,-0.074456,5,3,"Medication Support, Palliative Care, Companionship",Female,"Polish, Punjabi",Car,Mon-Fri,"Saturday, Sunday",06:00,16:00,25,7,32,Morning,Partially Available
+C0011,Student,51.689223,0.273958,51.716961,0.254075,5,0,"Medication Support, Personal Care",Other,English,Car,Flexible,Flexible,08:00,15:00,20,5,20,Afternoon,Unavailable
+C0012,Part-Time,51.562918,-0.350232,51.531325,-0.390403,8,7,"Companionship, Mobility Support, Dementia Care",Female,"Spanish, Arabic",Bicycle,Flexible,Flexible,07:00,11:00,25,8,29,Evening,Available
+C0013,Full-Time,51.497992,-0.190793,51.45899,-0.156914,12,1,"Personal Care, First Aid",Other,Punjabi,Public Transport,Mon-Sat,Sunday,08:00,17:00,35,12,35,Afternoon,Available
+C0014,Student,51.691388,-0.495465,51.680441,-0.508983,5,8,"Dementia Care, Mobility Support",Male,"French, Punjabi",Public Transport,Mon-Sat,Sunday,10:00,19:00,20,5,20,Evening,Unavailable
+C0015,Part-Time,51.479559,-0.360442,51.492914,-0.39728,12,8,"Palliative Care, Personal Care, Mobility Support",Female,"Punjabi, French",Public Transport,Mon-Sat,Sunday,11:00,21:00,20,8,35,Night,Available
+C0016,Student,51.6845,0.287647,51.647064,0.273923,5,4,"Medication Support, Companionship, Dementia Care",Male,English,Car,Mon-Sat,Sunday,08:00,14:00,20,4,20,Night,Unavailable
+C0017,Full-Time,51.330944,-0.110621,51.281327,-0.089634,12,1,"Palliative Care, Meal Preparation",Male,"Spanish, Urdu",Bicycle,Mon-Sat,Sunday,09:00,14:00,35,9,45,Afternoon,Available
+C0018,Student,51.320695,-0.481814,51.273998,-0.433666,8,7,"Companionship, Palliative Care",Female,English,Car,Flexible,Flexible,10:00,20:00,15,5,20,Afternoon,Available
+C0019,Part-Time,51.311661,-0.043518,51.35318,-0.061053,5,7,"Dementia Care, Meal Preparation",Female,French,Public Transport,Flexible,Flexible,14:00,23:00,20,8,31,Flexible,Unavailable
+C0020,Student,51.33499,0.244998,51.345826,0.226846,12,7,"First Aid, Medication Support",Male,Urdu,Car,Weekends,Monday-Friday,07:00,12:00,10,8,20,Afternoon,Partially Available
+C0021,Full-Time,51.626831,0.059128,51.661058,0.084953,8,7,"Companionship, Meal Preparation",Female,French,Car,Weekends,Monday-Friday,12:00,21:00,35,11,47,Flexible,Available
+C0022,Student,51.542215,-0.149855,51.539613,-0.139206,12,4,"Companionship, Mobility Support, Palliative Care",Male,"Hindi, English",Car,Mon-Sat,Sunday,11:00,16:00,10,5,20,Afternoon,Unavailable
+C0023,Full-Time,51.423013,-0.42213,51.427233,-0.469788,12,4,"Palliative Care, Personal Care, Medication Support",Male,Urdu,Car,Weekends,Monday-Friday,13:00,23:00,40,11,48,Afternoon,Available
+C0024,Full-Time,51.34303,-0.333618,51.294778,-0.361986,5,3,"Dementia Care, First Aid, Personal Care",Male,Punjabi,Car,Mon-Sat,Sunday,10:00,16:00,40,9,42,Night,Unavailable
+C0025,Part-Time,51.61858,-0.108611,51.606656,-0.071809,12,6,"Medication Support, Meal Preparation, Mobility Support",Other,"English, French",Bicycle,Mon-Sat,Sunday,07:00,15:00,25,6,26,Evening,Available
+C0026,Student,51.571936,-0.082384,51.581253,-0.0383,12,6,"Personal Care, Medication Support",Other,"Arabic, Urdu",Public Transport,Mon-Fri,"Saturday, Sunday",07:00,13:00,20,5,20,Evening,Available
+C0027,Full-Time,51.49332,-0.353133,51.477201,-0.323542,12,0,"Personal Care, Companionship, Mobility Support",Male,Hindi,Bicycle,Weekends,Monday-Friday,06:00,10:00,40,12,42,Evening,Available
+C0028,Part-Time,51.314536,-0.469157,51.27784,-0.49459,5,7,"Mobility Support, Medication Support",Other,Arabic,Bicycle,Weekends,Monday-Friday,10:00,16:00,25,7,31,Morning,Available
+C0029,Full-Time,51.333483,0.063987,51.309578,0.03951,8,7,"Companionship, Personal Care",Female,Arabic,Car,Weekends,Monday-Friday,08:00,17:00,35,12,47,Evening,Available
+C0030,Full-Time,51.651229,-0.07375,51.61784,-0.114504,8,1,"Dementia Care, Palliative Care, Medication Support",Male,"English, Spanish",Bicycle,Weekends,Monday-Friday,12:00,21:00,40,8,45,Afternoon,Partially Available
+C0031,Student,51.430062,-0.124855,51.38666,-0.106257,5,8,"Medication Support, Companionship, Dementia Care",Female,Arabic,Bicycle,Weekends,Monday-Friday,14:00,19:00,15,8,20,Night,Partially Available
+C0032,Student,51.619992,-0.381092,51.625569,-0.337992,5,5,"Palliative Care, Companionship, Personal Care",Female,"Punjabi, Hindi",Public Transport,Mon-Fri,"Saturday, Sunday",07:00,15:00,10,4,20,Evening,Available
+C0033,Part-Time,51.55804,-0.291395,51.536811,-0.27021,8,1,"Medication Support, Meal Preparation, First Aid",Other,"Arabic, Spanish",Public Transport,Mon-Sat,Sunday,12:00,22:00,20,6,30,Flexible,Available
+C0034,Full-Time,51.481306,-0.188505,51.440386,-0.18314,8,0,"Medication Support, Palliative Care, Meal Preparation",Male,Spanish,Car,Mon-Fri,"Saturday, Sunday",11:00,15:00,40,9,47,Morning,Available
+C0035,Full-Time,51.554093,0.231511,51.59283,0.237296,12,5,"Meal Preparation, Companionship, Personal Care",Female,"Punjabi, Polish",Public Transport,Weekends,Monday-Friday,08:00,18:00,40,10,41,Morning,Partially Available
+C0036,Full-Time,51.632174,0.243735,51.653718,0.217557,8,5,"Medication Support, Dementia Care",Female,"Spanish, Urdu",Public Transport,Flexible,Flexible,11:00,18:00,35,9,37,Night,Partially Available
+C0037,Student,51.628268,-0.181702,51.634502,-0.167446,12,6,"Personal Care, Meal Preparation, Dementia Care",Female,Hindi,Car,Weekends,Monday-Friday,06:00,16:00,20,6,20,Flexible,Unavailable
+C0038,Full-Time,51.517282,0.161091,51.492581,0.163106,8,4,"Companionship, Personal Care, Palliative Care",Other,Polish,Car,Mon-Fri,"Saturday, Sunday",08:00,17:00,35,8,41,Morning,Available
+C0039,Part-Time,51.352405,-0.223924,51.350666,-0.230712,8,2,"Personal Care, Companionship, Palliative Care",Female,French,Bicycle,Mon-Sat,Sunday,13:00,20:00,30,7,33,Evening,Unavailable
+C0040,Full-Time,51.280046,-0.13483,51.238688,-0.159891,12,2,"Dementia Care, Mobility Support, Meal Preparation",Male,English,Public Transport,Mon-Sat,Sunday,09:00,17:00,40,12,46,Afternoon,Available
+C0041,Part-Time,51.438177,0.107396,51.395775,0.066048,8,3,"Companionship, Palliative Care, Meal Preparation",Female,"Polish, English",Car,Mon-Fri,"Saturday, Sunday",08:00,17:00,25,8,27,Flexible,Unavailable
+C0042,Student,51.397052,0.067242,51.420616,0.02537,12,5,"Companionship, Medication Support",Male,Spanish,Public Transport,Weekends,Monday-Friday,14:00,21:00,15,8,20,Flexible,Available
+C0043,Student,51.67048,0.246363,51.638655,0.214419,5,4,"Companionship, Dementia Care",Male,"Hindi, French",Public Transport,Mon-Fri,"Saturday, Sunday",09:00,13:00,15,4,20,Flexible,Unavailable
+C0044,Part-Time,51.36756,-0.441842,51.368542,-0.393644,8,8,"Medication Support, Meal Preparation, Palliative Care",Female,French,Car,Mon-Fri,"Saturday, Sunday",13:00,23:00,20,8,23,Evening,Unavailable
+C0045,Full-Time,51.668651,0.262887,51.70523,0.22125,8,4,"Companionship, Meal Preparation, First Aid",Male,Arabic,Public Transport,Weekends,Monday-Friday,11:00,21:00,35,11,41,Afternoon,Unavailable
+C0046,Student,51.368487,0.161586,51.342095,0.125707,5,6,"Medication Support, First Aid",Female,Hindi,Bicycle,Weekends,Monday-Friday,10:00,20:00,10,7,20,Afternoon,Available
+C0047,Part-Time,51.4013,0.130544,51.428056,0.15553,12,2,"First Aid, Medication Support, Dementia Care",Other,"Hindi, Polish",Public Transport,Weekends,Monday-Friday,07:00,15:00,30,7,34,Flexible,Available
+C0048,Part-Time,51.672608,0.28329,51.660103,0.265959,12,4,"Mobility Support, Dementia Care",Other,French,Car,Flexible,Flexible,08:00,17:00,20,6,24,Afternoon,Available
+C0049,Student,51.38429,-0.088238,51.426191,-0.089315,8,2,"Mobility Support, First Aid, Palliative Care",Female,Spanish,Public Transport,Weekends,Monday-Friday,11:00,16:00,20,6,20,Night,Available
+C0050,Part-Time,51.622196,-0.316529,51.629572,-0.267367,8,3,"Meal Preparation, Palliative Care",Other,Arabic,Public Transport,Weekends,Monday-Friday,14:00,23:00,30,6,32,Afternoon,Unavailable
+C0051,Student,51.365159,-0.241052,51.36454,-0.246173,12,7,"Medication Support, Dementia Care, Meal Preparation",Other,Spanish,Car,Mon-Sat,Sunday,09:00,17:00,15,5,20,Evening,Available
+C0052,Student,51.475221,-0.183687,51.46699,-0.154639,12,2,"Companionship, First Aid, Mobility Support",Male,French,Car,Mon-Sat,Sunday,06:00,11:00,20,8,20,Evening,Partially Available
+C0053,Student,51.59193,-0.137734,51.568204,-0.158467,8,7,"Companionship, First Aid, Medication Support",Male,"Spanish, Polish",Bicycle,Mon-Sat,Sunday,14:00,23:00,20,8,20,Afternoon,Available
+C0054,Part-Time,51.646592,0.161706,51.647424,0.145864,8,2,"Dementia Care, Meal Preparation",Other,Arabic,Car,Flexible,Flexible,10:00,15:00,30,7,32,Morning,Available
+C0055,Full-Time,51.598113,0.23669,51.605697,0.189113,5,8,"Palliative Care, Medication Support, Companionship",Other,Spanish,Bicycle,Mon-Sat,Sunday,13:00,22:00,35,12,36,Flexible,Partially Available
+C0056,Student,51.320369,0.105593,51.316466,0.123203,12,0,"Companionship, Mobility Support",Other,Hindi,Car,Mon-Sat,Sunday,12:00,22:00,20,4,20,Morning,Available
+C0057,Full-Time,51.333755,-0.198428,51.29771,-0.208726,12,5,"Meal Preparation, Medication Support",Male,"Hindi, Arabic",Public Transport,Flexible,Flexible,11:00,20:00,35,9,37,Flexible,Available
+C0058,Full-Time,51.489328,-0.292611,51.461505,-0.252278,12,5,"Personal Care, Mobility Support, Meal Preparation",Female,French,Public Transport,Mon-Fri,"Saturday, Sunday",14:00,22:00,35,9,47,Flexible,Available
+C0059,Part-Time,51.484859,-0.453222,51.445167,-0.454781,12,8,"Personal Care, Medication Support, Companionship",Male,"Arabic, Spanish",Bicycle,Mon-Sat,Sunday,11:00,18:00,30,6,35,Afternoon,Partially Available
+C0060,Full-Time,51.289052,-0.251672,51.273529,-0.228175,8,3,"Companionship, Palliative Care, Mobility Support",Female,"Hindi, Urdu",Bicycle,Flexible,Flexible,07:00,11:00,40,10,48,Morning,Available
+C0061,Student,51.63401,-0.439138,51.586542,-0.468824,8,1,"Palliative Care, Personal Care, First Aid",Male,Arabic,Public Transport,Weekends,Monday-Friday,11:00,15:00,20,5,20,Flexible,Unavailable
+C0062,Part-Time,51.452005,-0.287635,51.425009,-0.281231,5,6,"Meal Preparation, Mobility Support",Other,Hindi,Car,Mon-Sat,Sunday,10:00,20:00,25,6,33,Night,Available
+C0063,Part-Time,51.386135,0.247215,51.432923,0.283357,5,1,"Medication Support, Personal Care",Other,"Punjabi, Spanish",Public Transport,Flexible,Flexible,09:00,15:00,30,6,32,Flexible,Available
+C0064,Student,51.566278,-0.478071,51.548521,-0.517038,12,1,"Companionship, Medication Support",Female,Punjabi,Public Transport,Weekends,Monday-Friday,12:00,19:00,10,6,20,Evening,Unavailable
+C0065,Student,51.521558,0.29878,51.537246,0.270363,8,2,"Palliative Care, First Aid, Companionship",Female,Spanish,Bicycle,Mon-Fri,"Saturday, Sunday",06:00,16:00,10,6,20,Night,Unavailable
+C0066,Part-Time,51.511949,0.279048,51.502258,0.293277,12,2,"Meal Preparation, Medication Support",Other,Urdu,Public Transport,Mon-Sat,Sunday,11:00,19:00,25,8,29,Evening,Unavailable
+C0067,Full-Time,51.352111,-0.279607,51.341381,-0.238274,8,0,"First Aid, Medication Support, Meal Preparation",Female,Hindi,Car,Mon-Fri,"Saturday, Sunday",14:00,21:00,35,10,38,Afternoon,Unavailable
+C0068,Full-Time,51.547407,-0.055036,51.592065,-0.094266,5,3,"Meal Preparation, Medication Support, Palliative Care",Male,English,Car,Flexible,Flexible,12:00,18:00,40,8,43,Evening,Unavailable
+C0069,Student,51.41741,-0.224249,51.377404,-0.219503,8,4,"Companionship, Mobility Support",Other,Arabic,Public Transport,Mon-Sat,Sunday,06:00,14:00,20,5,20,Morning,Unavailable
+C0070,Full-Time,51.572925,-0.338518,51.621849,-0.307753,5,3,"Personal Care, Companionship, Mobility Support",Male,Polish,Car,Flexible,Flexible,07:00,16:00,35,12,40,Afternoon,Partially Available
+C0071,Student,51.317914,-0.123141,51.279509,-0.166049,8,1,"Meal Preparation, Palliative Care",Female,"French, Hindi",Car,Mon-Fri,"Saturday, Sunday",12:00,20:00,20,7,20,Morning,Unavailable
+C0072,Part-Time,51.656054,-0.144814,51.695382,-0.167419,12,7,"Mobility Support, Dementia Care, Medication Support",Female,"French, English",Bicycle,Weekends,Monday-Friday,08:00,12:00,30,6,35,Morning,Unavailable
+C0073,Student,51.37429,-0.424614,51.351767,-0.389414,12,4,"Personal Care, Mobility Support",Other,Hindi,Car,Mon-Sat,Sunday,14:00,19:00,10,8,20,Morning,Available
+C0074,Full-Time,51.546163,-0.16214,51.573824,-0.120115,5,2,"First Aid, Personal Care, Meal Preparation",Male,"Spanish, French",Public Transport,Weekends,Monday-Friday,11:00,20:00,35,10,45,Flexible,Unavailable
+C0075,Student,51.623089,-0.127314,51.623531,-0.122173,5,5,"Personal Care, Medication Support, Mobility Support",Male,English,Car,Flexible,Flexible,10:00,16:00,15,6,20,Night,Available
+C0076,Full-Time,51.396708,0.199767,51.446268,0.169791,5,7,"Personal Care, Mobility Support, Dementia Care",Other,"English, Urdu",Car,Flexible,Flexible,07:00,15:00,35,11,40,Evening,Partially Available
+C0077,Full-Time,51.642856,-0.278928,51.687114,-0.237453,12,1,"Personal Care, Dementia Care, First Aid",Other,"English, Punjabi",Bicycle,Flexible,Flexible,12:00,17:00,40,11,43,Night,Unavailable
+C0078,Part-Time,51.639479,-0.491506,51.597254,-0.534098,8,5,"Meal Preparation, Mobility Support, Palliative Care",Female,Arabic,Public Transport,Mon-Fri,"Saturday, Sunday",09:00,15:00,20,8,28,Evening,Available
+C0079,Part-Time,51.651502,-0.3088,51.627863,-0.260458,5,6,"Mobility Support, Palliative Care, Personal Care",Male,"Polish, Spanish",Bicycle,Mon-Fri,"Saturday, Sunday",14:00,23:00,20,7,28,Night,Partially Available
+C0080,Full-Time,51.591811,-0.38496,51.571206,-0.38679,8,2,"Medication Support, First Aid",Other,French,Car,Mon-Fri,"Saturday, Sunday",14:00,23:00,40,9,47,Evening,Unavailable
+C0081,Student,51.30863,0.074098,51.345919,0.064666,12,0,"Mobility Support, Personal Care",Male,"Arabic, Polish",Public Transport,Flexible,Flexible,14:00,20:00,20,4,20,Morning,Partially Available
+C0082,Student,51.366122,-0.146801,51.389741,-0.119364,5,7,"Meal Preparation, Companionship, Dementia Care",Female,"Polish, Hindi",Public Transport,Weekends,Monday-Friday,08:00,12:00,20,5,20,Flexible,Unavailable
+C0083,Student,51.52994,-0.499543,51.554411,-0.520403,8,4,"Medication Support, Dementia Care",Male,"Spanish, Punjabi",Public Transport,Mon-Sat,Sunday,09:00,18:00,20,5,20,Flexible,Available
+C0084,Part-Time,51.541481,-0.123053,51.588548,-0.148032,12,2,"Meal Preparation, Companionship, Personal Care",Other,"Punjabi, Polish",Bicycle,Mon-Fri,"Saturday, Sunday",10:00,18:00,20,7,23,Morning,Unavailable
+C0085,Student,51.34611,-0.299225,51.348224,-0.298962,5,7,"Personal Care, Medication Support",Male,"Polish, Punjabi",Car,Mon-Fri,"Saturday, Sunday",06:00,16:00,15,7,20,Morning,Partially Available
+C0086,Full-Time,51.395107,0.165542,51.437237,0.151081,8,3,"Dementia Care, Mobility Support, Personal Care",Other,"Punjabi, Polish",Public Transport,Mon-Sat,Sunday,10:00,14:00,40,12,41,Night,Available
+C0087,Part-Time,51.353061,-0.437195,51.33793,-0.436987,8,4,"Mobility Support, Companionship",Other,English,Bicycle,Mon-Sat,Sunday,10:00,14:00,20,6,32,Morning,Unavailable
+C0088,Student,51.423817,-0.308742,51.435172,-0.30768,12,8,"Companionship, Personal Care",Male,French,Public Transport,Flexible,Flexible,09:00,16:00,20,6,20,Night,Unavailable
+C0089,Student,51.283786,-0.442809,51.325291,-0.440529,12,3,"Meal Preparation, Dementia Care",Female,"Arabic, French",Public Transport,Flexible,Flexible,11:00,20:00,15,7,20,Flexible,Available
+C0090,Full-Time,51.430359,0.000479,51.393645,-0.035545,5,2,"Companionship, Meal Preparation",Female,"Spanish, Punjabi",Bicycle,Flexible,Flexible,06:00,11:00,35,9,41,Afternoon,Available
+C0091,Part-Time,51.363513,0.113978,51.360395,0.076921,8,3,"Mobility Support, Medication Support, Dementia Care",Female,Polish,Car,Mon-Fri,"Saturday, Sunday",08:00,16:00,30,8,30,Afternoon,Unavailable
+C0092,Part-Time,51.347713,-0.268086,51.392263,-0.25533,12,0,"Companionship, Medication Support",Female,"Hindi, Spanish",Bicycle,Flexible,Flexible,10:00,19:00,20,8,29,Afternoon,Unavailable
+C0093,Part-Time,51.509892,-0.012707,51.536734,-0.029806,5,2,"Mobility Support, Palliative Care",Male,Punjabi,Bicycle,Flexible,Flexible,11:00,15:00,20,6,20,Night,Partially Available
+C0094,Full-Time,51.346953,-0.254553,51.311211,-0.248915,8,5,"Companionship, Meal Preparation, Medication Support",Female,Polish,Bicycle,Weekends,Monday-Friday,13:00,23:00,35,11,45,Afternoon,Partially Available
+C0095,Part-Time,51.594578,0.102725,51.593276,0.134978,5,7,"Dementia Care, Mobility Support",Other,"French, English",Bicycle,Mon-Sat,Sunday,13:00,20:00,25,8,35,Flexible,Available
+C0096,Student,51.625303,-0.203578,51.628253,-0.216315,5,5,"Personal Care, Mobility Support",Female,"French, Arabic",Bicycle,Weekends,Monday-Friday,13:00,20:00,10,6,20,Morning,Unavailable
+C0097,Part-Time,51.389226,0.180587,51.420283,0.136801,5,3,"Mobility Support, First Aid",Male,"Urdu, French",Car,Mon-Sat,Sunday,12:00,21:00,30,8,31,Afternoon,Partially Available
+C0098,Part-Time,51.600268,0.210789,51.606211,0.182361,8,3,"Meal Preparation, Medication Support, Dementia Care",Other,"Polish, Punjabi",Public Transport,Weekends,Monday-Friday,06:00,12:00,20,8,32,Flexible,Available
+C0099,Part-Time,51.629939,-0.032047,51.580014,-0.047467,12,3,"First Aid, Mobility Support, Dementia Care",Female,English,Bicycle,Mon-Fri,"Saturday, Sunday",11:00,16:00,25,8,35,Evening,Partially Available
+C0100,Part-Time,51.660903,-0.239475,51.66101,-0.260634,5,3,"Personal Care, Palliative Care",Male,Arabic,Car,Flexible,Flexible,10:00,14:00,25,7,28,Evening,Unavailable

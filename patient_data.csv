@@ -1,0 +1,501 @@
+PatientID,Latitude,Longitude,ComplexityLevel,PriorityLevel,VisitDurationMinutes,VisitsPerWeek,VisitsPerDay,TimeWindowStart,TimeWindowEnd,RequiresFixedTime,PreferredVisitPeriod,RequiredSkills,PreferredGender,PreferredLanguage,MobilityLevel,TwoCarerRequired,ContinuityRequirement
+P0001,51.36008,-0.273553,Low,Low,45,1,1,15:00,18:00,Yes,Afternoon,"Companionship, Personal Care",No Preference,Arabic,Independent,No,Low
+P0002,51.471417,-0.007311,Medium,Medium,45,7,1,10:00,13:00,Yes,Morning,Mobility Support,Female,Hindi,Assisted,Yes,Medium
+P0003,51.599749,0.100166,Medium,Medium,60,4,1,17:00,20:00,Yes,Evening,Personal Care,Female,English,Wheelchair,Yes,Medium
+P0004,51.393276,0.17624,Medium,High,60,4,2,09:00,10:00,Yes,Morning,Personal Care,Male,Arabic,Assisted,Yes,High
+P0005,51.371909,-0.127507,Medium,Medium,60,3,1,17:00,19:00,No,Evening,"Personal Care, Meal Preparation, Mobility Support",No Preference,English,Wheelchair,No,Medium
+P0006,51.431019,-0.078643,Low,Medium,45,2,1,13:00,14:00,No,Afternoon,Meal Preparation,Female,Hindi,Independent,No,Medium
+P0007,51.50118,0.129911,Medium,High,90,5,2,07:00,10:00,No,Morning,"Personal Care, Mobility Support, Meal Preparation",Female,Hindi,Wheelchair,Yes,High
+P0008,51.318373,-0.173333,Medium,Medium,60,5,2,14:00,17:00,Yes,Afternoon,"Meal Preparation, Personal Care",Male,Arabic,Wheelchair,Yes,High
+P0009,51.566208,-0.129161,Low,Medium,60,1,1,10:00,12:00,No,Morning,Companionship,Female,Punjabi,Independent,No,Medium
+P0010,51.290999,0.15941,Medium,Medium,60,4,2,18:00,20:00,No,Evening,"Mobility Support, Personal Care, Medication Support",Female,Hindi,Wheelchair,Yes,Medium
+P0011,51.332478,-0.367902,Medium,Medium,60,7,2,07:00,09:00,No,Morning,"Personal Care, Mobility Support, Medication Support",No Preference,Arabic,Assisted,Yes,High
+P0012,51.464055,-0.155702,Low,Low,45,1,1,18:00,20:00,No,Evening,Meal Preparation,No Preference,Hindi,Independent,No,Medium
+P0013,51.41503,0.282223,Low,Low,45,2,1,17:00,20:00,Yes,Evening,Personal Care,Male,Punjabi,Independent,No,Low
+P0014,51.367988,-0.398107,Low,Medium,45,3,1,18:00,20:00,Yes,Evening,"Meal Preparation, Companionship",Female,No Preference,Independent,No,Low
+P0015,51.665216,0.057151,Low,Medium,30,2,1,15:00,19:00,Yes,Afternoon,"Personal Care, Meal Preparation",Female,Urdu,Assisted,No,Medium
+P0016,51.387048,0.016844,Low,Medium,45,2,1,08:00,09:00,No,Morning,"Companionship, Personal Care",No Preference,No Preference,Independent,No,Low
+P0017,51.665207,0.081576,Low,Low,60,3,1,17:00,21:00,No,Evening,"Companionship, Meal Preparation",Female,Urdu,Assisted,No,Low
+P0018,51.570042,-0.131747,High,Critical,60,6,2,15:00,16:00,Yes,Afternoon,"Mobility Support, Dementia Care, Palliative Care",Female,Punjabi,Wheelchair,No,High
+P0019,51.537361,-0.104971,Medium,High,45,7,1,16:00,18:00,Yes,Afternoon,"Mobility Support, Medication Support",No Preference,Hindi,Assisted,No,Medium
+P0020,51.573933,-0.191639,Low,Medium,60,2,1,09:00,12:00,Yes,Morning,Companionship,Female,Urdu,Assisted,No,Low
+P0021,51.60482,-0.347515,Low,Low,60,3,1,09:00,10:00,No,Morning,Companionship,Female,Arabic,Independent,No,Low
+P0022,51.389134,-0.033283,Low,Low,60,3,1,08:00,11:00,Yes,Morning,Companionship,Male,Hindi,Independent,No,Low
+P0023,51.639088,0.134088,High,High,60,7,2,09:00,10:00,Yes,Morning,"Mobility Support, Medication Support",Female,Arabic,Bedbound,Yes,High
+P0024,51.352749,-0.158462,Low,Low,30,1,1,10:00,13:00,Yes,Morning,Meal Preparation,Male,Arabic,Assisted,No,Medium
+P0025,51.606498,-0.1151,Medium,Medium,45,7,1,11:00,15:00,No,Morning,"Mobility Support, Personal Care, Medication Support",No Preference,No Preference,Wheelchair,No,High
+P0026,51.605865,-0.250628,High,Critical,120,12,2,10:00,12:00,Yes,Morning,"Medication Support, Palliative Care, Mobility Support",Male,Arabic,Bedbound,No,High
+P0027,51.406797,-0.372107,Low,Low,30,2,1,11:00,14:00,Yes,Morning,Personal Care,Male,Punjabi,Assisted,No,Low
+P0028,51.352631,0.198746,Low,Low,30,3,1,16:00,19:00,Yes,Afternoon,Meal Preparation,Male,Urdu,Assisted,No,Low
+P0029,51.561553,-0.307934,Medium,Medium,90,7,2,08:00,12:00,Yes,Morning,"Personal Care, Mobility Support, Medication Support",No Preference,Urdu,Assisted,No,Medium
+P0030,51.314589,0.194618,High,High,90,14,4,14:00,18:00,Yes,Afternoon,"Dementia Care, Mobility Support, Palliative Care, Medication Support",Female,Urdu,Bedbound,Yes,Medium
+P0031,51.391527,-0.257129,Low,Low,30,1,1,10:00,13:00,Yes,Morning,Companionship,No Preference,Hindi,Assisted,No,Low
+P0032,51.470149,-0.122065,Medium,Medium,60,5,1,13:00,14:00,No,Afternoon,"Meal Preparation, Mobility Support",No Preference,Punjabi,Assisted,Yes,Medium
+P0033,51.604343,0.02547,Low,Low,45,3,1,06:00,08:00,No,Morning,Companionship,Male,Hindi,Assisted,No,Low
+P0034,51.409039,-0.49426,Medium,Medium,45,5,1,16:00,18:00,No,Afternoon,Medication Support,No Preference,English,Wheelchair,No,Medium
+P0035,51.656084,0.282816,High,Critical,90,6,2,13:00,15:00,Yes,Afternoon,"Mobility Support, Dementia Care, Medication Support",Male,Arabic,Wheelchair,Yes,High
+P0036,51.541173,0.18672,Medium,Medium,45,5,1,18:00,19:00,Yes,Evening,"Mobility Support, Personal Care, Meal Preparation",No Preference,Arabic,Assisted,No,Medium
+P0037,51.45421,0.131957,High,Critical,90,13,4,18:00,22:00,Yes,Evening,"Medication Support, Dementia Care, Mobility Support",Male,Hindi,Bedbound,No,High
+P0038,51.322856,-0.340062,High,High,90,14,4,09:00,11:00,Yes,Morning,"Medication Support, Dementia Care, Palliative Care",No Preference,Arabic,Bedbound,Yes,High
+P0039,51.539493,-0.038462,Low,Medium,30,2,1,11:00,12:00,Yes,Morning,"Companionship, Meal Preparation",No Preference,No Preference,Independent,No,Medium
+P0040,51.300648,-0.132102,High,Critical,120,13,3,11:00,15:00,Yes,Morning,"Medication Support, Palliative Care, Mobility Support",Female,Hindi,Bedbound,Yes,High
+P0041,51.523094,0.104023,Low,Medium,45,3,1,11:00,14:00,No,Morning,Companionship,No Preference,Punjabi,Assisted,No,Medium
+P0042,51.550797,0.051284,High,Critical,60,8,2,16:00,18:00,Yes,Afternoon,"Dementia Care, Mobility Support",Female,Punjabi,Bedbound,Yes,High
+P0043,51.693494,0.08704,High,High,60,14,3,07:00,09:00,No,Morning,"Mobility Support, Medication Support, Dementia Care",Male,Urdu,Wheelchair,No,High
+P0044,51.676111,-0.444004,High,High,120,9,2,15:00,16:00,No,Afternoon,"Palliative Care, Dementia Care, Mobility Support",No Preference,Arabic,Bedbound,Yes,High
+P0045,51.618481,-0.194251,Low,Medium,60,3,1,07:00,08:00,Yes,Morning,Companionship,Female,English,Independent,No,Low
+P0046,51.282672,0.286221,Low,Low,45,1,1,15:00,19:00,No,Afternoon,Personal Care,Male,Urdu,Assisted,No,Low
+P0047,51.389649,-0.131859,Low,Low,30,1,1,14:00,15:00,No,Afternoon,"Personal Care, Companionship",Female,No Preference,Assisted,No,Medium
+P0048,51.363749,0.06094,High,High,120,14,2,07:00,09:00,No,Morning,"Palliative Care, Dementia Care, Medication Support, Mobility Support",Female,Punjabi,Wheelchair,No,High
+P0049,51.55919,-0.266585,Medium,Medium,60,7,1,17:00,21:00,Yes,Evening,Medication Support,Male,Urdu,Wheelchair,No,Medium
+P0050,51.538505,0.162094,Low,Low,45,1,1,12:00,16:00,No,Afternoon,Personal Care,Male,No Preference,Assisted,No,Medium
+P0051,51.298259,0.186562,Low,Medium,30,2,1,18:00,19:00,No,Evening,"Companionship, Meal Preparation",Female,No Preference,Independent,No,Medium
+P0052,51.319577,0.034428,High,High,60,12,4,15:00,16:00,No,Afternoon,"Palliative Care, Dementia Care, Medication Support",Male,English,Bedbound,No,High
+P0053,51.449063,0.276457,Low,Low,45,1,1,14:00,17:00,No,Afternoon,Personal Care,Male,Arabic,Independent,No,Medium
+P0054,51.532858,-0.095373,Medium,Medium,90,4,1,18:00,20:00,No,Evening,"Personal Care, Mobility Support, Meal Preparation",No Preference,Arabic,Assisted,No,Medium
+P0055,51.51389,-0.148865,Medium,High,60,6,2,10:00,13:00,Yes,Morning,"Personal Care, Meal Preparation, Mobility Support",Female,No Preference,Wheelchair,Yes,High
+P0056,51.455422,-0.154893,Medium,High,90,4,1,18:00,19:00,Yes,Evening,Personal Care,No Preference,English,Wheelchair,Yes,High
+P0057,51.578022,0.11733,Low,Low,30,1,1,13:00,17:00,No,Afternoon,Companionship,No Preference,No Preference,Assisted,No,Medium
+P0058,51.633993,-0.156683,Medium,Medium,45,6,2,11:00,14:00,Yes,Morning,Mobility Support,No Preference,No Preference,Wheelchair,Yes,High
+P0059,51.45618,-0.03589,High,High,60,13,4,06:00,10:00,No,Morning,"Dementia Care, Palliative Care",No Preference,Hindi,Wheelchair,No,High
+P0060,51.637654,-0.074568,High,High,120,10,2,09:00,11:00,No,Morning,"Dementia Care, Medication Support, Mobility Support",No Preference,Hindi,Wheelchair,Yes,Medium
+P0061,51.431238,0.17283,Low,Low,60,2,1,08:00,10:00,No,Morning,"Companionship, Personal Care",Male,No Preference,Independent,No,Low
+P0062,51.596691,-0.044828,Medium,Medium,60,5,1,14:00,15:00,Yes,Afternoon,Medication Support,Male,Urdu,Wheelchair,Yes,Medium
+P0063,51.557712,0.268191,Low,Low,45,1,1,09:00,12:00,No,Morning,"Personal Care, Companionship",Female,Punjabi,Independent,No,Low
+P0064,51.47515,0.108281,Low,Medium,30,2,1,08:00,10:00,No,Morning,Personal Care,Female,No Preference,Assisted,No,Medium
+P0065,51.399257,-0.23441,High,High,90,6,2,06:00,09:00,No,Morning,"Medication Support, Palliative Care",Male,Urdu,Bedbound,Yes,Medium
+P0066,51.388878,0.098089,Medium,Medium,90,7,1,13:00,17:00,Yes,Afternoon,"Personal Care, Mobility Support",Male,English,Assisted,No,Medium
+P0067,51.391599,0.185423,Low,Low,60,1,1,06:00,08:00,No,Morning,Meal Preparation,Female,Punjabi,Assisted,No,Medium
+P0068,51.485585,0.001367,High,Critical,120,12,4,09:00,10:00,Yes,Morning,"Mobility Support, Dementia Care, Medication Support",No Preference,Arabic,Bedbound,Yes,High
+P0069,51.502297,-0.064238,Medium,Medium,45,6,2,07:00,08:00,Yes,Morning,"Personal Care, Meal Preparation, Medication Support",No Preference,No Preference,Assisted,No,Medium
+P0070,51.465542,-0.045341,Low,Low,45,3,1,09:00,12:00,Yes,Morning,Meal Preparation,Female,Arabic,Independent,No,Medium
+P0071,51.511769,-0.175655,Low,Low,60,2,1,06:00,10:00,Yes,Morning,"Companionship, Personal Care",Male,Arabic,Independent,No,Low
+P0072,51.473446,0.291578,Medium,Medium,90,3,1,16:00,18:00,Yes,Afternoon,"Meal Preparation, Mobility Support, Medication Support",Male,Hindi,Wheelchair,No,Medium
+P0073,51.325358,-0.453922,Low,Medium,60,1,1,16:00,17:00,Yes,Afternoon,Personal Care,Female,English,Assisted,No,Medium
+P0074,51.539249,0.250297,Low,Low,60,1,1,07:00,09:00,No,Morning,"Personal Care, Meal Preparation",No Preference,Urdu,Assisted,No,Low
+P0075,51.284116,0.063881,Low,Low,60,2,1,17:00,20:00,Yes,Evening,Personal Care,Male,Hindi,Independent,No,Low
+P0076,51.349106,0.229462,Low,Medium,45,1,1,07:00,08:00,Yes,Morning,Companionship,Male,Hindi,Assisted,No,Medium
+P0077,51.361041,-0.282346,Low,Medium,30,3,1,14:00,17:00,Yes,Afternoon,"Companionship, Meal Preparation",Male,No Preference,Independent,No,Low
+P0078,51.464037,-0.493237,Medium,High,45,5,1,16:00,20:00,Yes,Afternoon,Medication Support,Male,No Preference,Assisted,No,High
+P0079,51.52159,-0.023042,Low,Low,30,3,1,17:00,18:00,No,Evening,Companionship,Male,Punjabi,Independent,No,Low
+P0080,51.484293,-0.189072,Medium,Medium,60,7,2,08:00,09:00,No,Morning,"Medication Support, Mobility Support",Male,Punjabi,Wheelchair,No,Medium
+P0081,51.497806,-0.423831,High,High,60,12,4,15:00,18:00,Yes,Afternoon,"Mobility Support, Medication Support, Dementia Care, Palliative Care",Female,Hindi,Bedbound,No,Medium
+P0082,51.438294,-0.175756,Low,Medium,60,3,1,16:00,18:00,No,Afternoon,Meal Preparation,Male,No Preference,Independent,No,Low
+P0083,51.594174,-0.196732,Low,Low,45,2,1,18:00,21:00,Yes,Evening,Meal Preparation,Male,English,Independent,No,Low
+P0084,51.519866,-0.273068,Medium,Medium,60,7,2,10:00,13:00,Yes,Morning,Meal Preparation,Male,Hindi,Wheelchair,Yes,High
+P0085,51.488451,0.160832,Medium,Medium,60,3,2,08:00,09:00,Yes,Morning,Personal Care,Male,English,Wheelchair,Yes,High
+P0086,51.531652,-0.444037,Low,Medium,60,2,1,18:00,22:00,No,Evening,Meal Preparation,No Preference,Hindi,Independent,No,Medium
+P0087,51.462829,-0.042403,Low,Low,30,2,1,10:00,12:00,No,Morning,"Meal Preparation, Companionship",Male,Urdu,Independent,No,Medium
+P0088,51.533774,-0.144546,High,Critical,90,13,4,12:00,14:00,Yes,Afternoon,"Dementia Care, Mobility Support, Palliative Care, Medication Support",Male,No Preference,Wheelchair,Yes,High
+P0089,51.531815,-0.396613,Low,Low,30,3,1,06:00,09:00,Yes,Morning,Companionship,No Preference,English,Assisted,No,Low
+P0090,51.577228,-0.491316,Medium,Medium,60,6,1,18:00,22:00,Yes,Evening,Personal Care,Male,Hindi,Assisted,No,High
+P0091,51.370074,0.198752,Low,Low,30,2,1,10:00,11:00,Yes,Morning,"Personal Care, Meal Preparation",Male,Urdu,Independent,No,Low
+P0092,51.669734,-0.494985,Medium,Medium,60,5,2,13:00,14:00,No,Afternoon,"Medication Support, Meal Preparation, Mobility Support",Male,Urdu,Wheelchair,No,Medium
+P0093,51.583538,0.295303,Medium,High,45,4,2,06:00,10:00,No,Morning,Meal Preparation,No Preference,Urdu,Assisted,No,High
+P0094,51.516438,0.092526,Medium,High,45,4,1,17:00,21:00,Yes,Evening,Personal Care,Female,Hindi,Wheelchair,No,High
+P0095,51.532284,0.184102,High,High,120,13,2,12:00,13:00,No,Afternoon,"Medication Support, Palliative Care, Mobility Support",No Preference,Urdu,Bedbound,Yes,High
+P0096,51.283935,0.149069,Low,Low,60,3,1,18:00,21:00,No,Evening,Personal Care,Male,No Preference,Assisted,No,Low
+P0097,51.386927,-0.488338,Medium,Medium,90,4,1,13:00,17:00,Yes,Afternoon,"Medication Support, Personal Care, Mobility Support",No Preference,English,Assisted,Yes,Medium
+P0098,51.653832,-0.433414,High,High,120,12,2,13:00,15:00,No,Afternoon,"Medication Support, Mobility Support, Palliative Care",Female,Punjabi,Wheelchair,Yes,Medium
+P0099,51.317071,0.244448,Low,Medium,45,1,1,11:00,12:00,Yes,Morning,Companionship,Female,Urdu,Assisted,No,Medium
+P0100,51.322399,-0.287362,Low,Medium,45,1,1,16:00,17:00,Yes,Afternoon,Personal Care,No Preference,Urdu,Assisted,No,Medium
+P0101,51.59292,-0.46636,Medium,Medium,90,6,2,08:00,10:00,No,Morning,Medication Support,No Preference,Punjabi,Wheelchair,No,High
+P0102,51.359833,-0.019011,Low,Low,30,2,1,10:00,12:00,Yes,Morning,Personal Care,No Preference,No Preference,Assisted,No,Low
+P0103,51.531688,-0.130551,Medium,Medium,90,4,2,08:00,11:00,No,Morning,"Mobility Support, Medication Support",Female,Urdu,Wheelchair,Yes,Medium
+P0104,51.28238,0.181742,Medium,Medium,90,6,2,13:00,14:00,Yes,Afternoon,"Medication Support, Personal Care",Male,Arabic,Wheelchair,Yes,Medium
+P0105,51.678677,-0.00823,Medium,Medium,90,7,2,08:00,09:00,Yes,Morning,Mobility Support,Male,No Preference,Assisted,Yes,High
+P0106,51.533665,0.155552,Low,Medium,60,1,1,15:00,18:00,Yes,Afternoon,Companionship,Female,English,Assisted,No,Low
+P0107,51.553201,0.211252,Medium,High,90,3,2,06:00,08:00,No,Morning,"Medication Support, Personal Care, Meal Preparation",Male,No Preference,Assisted,No,High
+P0108,51.455229,-0.207728,Low,Low,60,3,1,17:00,19:00,Yes,Evening,Meal Preparation,Female,English,Independent,No,Low
+P0109,51.673828,-0.086521,Medium,Medium,90,3,2,08:00,12:00,No,Morning,Personal Care,Female,Urdu,Assisted,Yes,Medium
+P0110,51.344148,-0.319818,Medium,High,60,5,1,18:00,22:00,Yes,Evening,"Mobility Support, Medication Support, Personal Care",Female,English,Assisted,No,Medium
+P0111,51.640824,-0.480939,Low,Low,30,3,1,06:00,10:00,No,Morning,"Meal Preparation, Companionship",Male,Punjabi,Independent,No,Low
+P0112,51.486436,-0.400838,Medium,Medium,60,6,1,13:00,15:00,Yes,Afternoon,"Medication Support, Meal Preparation, Personal Care",No Preference,Punjabi,Assisted,Yes,Medium
+P0113,51.619477,0.018053,Medium,Medium,90,6,1,11:00,13:00,No,Morning,"Mobility Support, Meal Preparation, Medication Support",Male,Punjabi,Wheelchair,No,Medium
+P0114,51.384033,-0.462551,Medium,Medium,60,4,1,11:00,12:00,No,Morning,Mobility Support,Male,Urdu,Assisted,No,Medium
+P0115,51.404842,-0.445942,Low,Medium,45,3,1,11:00,13:00,No,Morning,"Meal Preparation, Personal Care",Female,English,Assisted,No,Low
+P0116,51.314947,-0.173421,Low,Low,30,3,1,09:00,10:00,No,Morning,"Companionship, Personal Care",Male,Urdu,Assisted,No,Low
+P0117,51.342299,-0.222465,Medium,Medium,45,6,2,08:00,10:00,No,Morning,Medication Support,No Preference,Punjabi,Wheelchair,Yes,Medium
+P0118,51.539369,-0.300886,Low,Low,60,2,1,08:00,11:00,No,Morning,Companionship,Female,Hindi,Independent,No,Low
+P0119,51.547916,-0.127277,High,High,120,13,2,07:00,09:00,Yes,Morning,"Mobility Support, Dementia Care, Palliative Care",Female,English,Bedbound,No,Medium
+P0120,51.343387,-0.115277,High,High,120,13,4,16:00,20:00,No,Afternoon,"Palliative Care, Mobility Support, Dementia Care",No Preference,Hindi,Wheelchair,No,High
+P0121,51.679674,-0.297355,Medium,Medium,60,4,1,09:00,11:00,Yes,Morning,"Mobility Support, Medication Support, Personal Care",Male,Urdu,Wheelchair,No,High
+P0122,51.384773,-0.242207,High,High,60,14,2,14:00,17:00,No,Afternoon,"Palliative Care, Mobility Support",Female,Urdu,Wheelchair,Yes,Medium
+P0123,51.596511,-0.098702,Medium,Medium,45,7,2,06:00,08:00,Yes,Morning,Medication Support,No Preference,No Preference,Wheelchair,No,Medium
+P0124,51.5906,-0.14204,Low,Low,30,3,1,16:00,19:00,Yes,Afternoon,Personal Care,No Preference,Urdu,Independent,No,Low
+P0125,51.294749,-0.42325,Medium,High,45,6,1,06:00,07:00,Yes,Morning,Medication Support,Female,No Preference,Assisted,Yes,High
+P0126,51.392425,0.199282,High,High,120,9,3,15:00,16:00,Yes,Afternoon,"Palliative Care, Dementia Care",Female,Punjabi,Bedbound,No,High
+P0127,51.349169,-0.253516,High,Critical,60,9,3,10:00,12:00,Yes,Morning,"Medication Support, Mobility Support",No Preference,English,Bedbound,Yes,High
+P0128,51.628615,-0.463708,Medium,Medium,45,4,1,06:00,08:00,Yes,Morning,"Meal Preparation, Medication Support",Female,Hindi,Wheelchair,No,Medium
+P0129,51.403894,-0.479709,Medium,Medium,60,3,1,12:00,15:00,No,Afternoon,Mobility Support,Male,Punjabi,Wheelchair,Yes,Medium
+P0130,51.559604,0.173506,Medium,Medium,45,5,2,11:00,13:00,No,Morning,Medication Support,No Preference,No Preference,Wheelchair,No,Medium
+P0131,51.564806,-0.276214,Low,Low,45,2,1,17:00,19:00,No,Evening,"Companionship, Personal Care",Male,Hindi,Independent,No,Low
+P0132,51.434592,-0.488254,Low,Medium,45,1,1,11:00,14:00,Yes,Morning,Companionship,No Preference,Hindi,Independent,No,Low
+P0133,51.681817,0.129009,Medium,Medium,90,3,2,13:00,14:00,Yes,Afternoon,"Personal Care, Mobility Support, Meal Preparation",No Preference,Urdu,Assisted,No,Medium
+P0134,51.538155,0.291985,Low,Low,45,3,1,15:00,17:00,No,Afternoon,"Meal Preparation, Companionship",No Preference,Punjabi,Assisted,No,Medium
+P0135,51.552384,-0.454543,Medium,Medium,45,4,2,14:00,16:00,Yes,Afternoon,"Mobility Support, Medication Support, Personal Care",Female,No Preference,Wheelchair,Yes,High
+P0136,51.511482,0.278647,Medium,Medium,60,4,2,06:00,10:00,Yes,Morning,"Medication Support, Mobility Support, Personal Care",Female,English,Assisted,No,Medium
+P0137,51.56196,-0.479691,Medium,Medium,45,6,2,18:00,20:00,Yes,Evening,"Meal Preparation, Personal Care, Mobility Support",Female,English,Assisted,Yes,Medium
+P0138,51.349035,-0.48819,High,Critical,90,14,3,16:00,20:00,Yes,Afternoon,"Mobility Support, Medication Support, Palliative Care",Male,Arabic,Bedbound,Yes,High
+P0139,51.473119,0.129335,Medium,Medium,90,4,2,10:00,14:00,Yes,Morning,"Mobility Support, Personal Care, Meal Preparation",Male,No Preference,Assisted,Yes,High
+P0140,51.574147,-0.165832,Medium,Medium,90,7,2,10:00,11:00,No,Morning,"Mobility Support, Personal Care, Meal Preparation",Female,Arabic,Assisted,No,Medium
+P0141,51.394965,-0.052376,High,Critical,120,12,3,17:00,20:00,Yes,Evening,"Dementia Care, Medication Support",No Preference,Arabic,Wheelchair,Yes,High
+P0142,51.283495,-0.187538,High,Critical,120,9,3,13:00,14:00,Yes,Afternoon,"Palliative Care, Mobility Support",Male,Punjabi,Bedbound,Yes,High
+P0143,51.559379,-0.206442,Medium,High,90,4,1,10:00,14:00,Yes,Morning,"Medication Support, Mobility Support",Male,Arabic,Wheelchair,Yes,High
+P0144,51.631134,-0.262016,Medium,Medium,45,3,1,08:00,11:00,No,Morning,"Personal Care, Medication Support, Mobility Support",Male,Hindi,Assisted,Yes,Medium
+P0145,51.435503,0.189844,High,High,90,13,2,13:00,15:00,No,Afternoon,"Medication Support, Palliative Care, Mobility Support, Dementia Care",Female,Punjabi,Wheelchair,Yes,High
+P0146,51.626972,0.009448,Medium,Medium,90,7,1,13:00,15:00,Yes,Afternoon,"Personal Care, Medication Support, Mobility Support",No Preference,Arabic,Assisted,Yes,Medium
+P0147,51.671945,0.106794,Low,Low,60,1,1,17:00,18:00,Yes,Evening,Personal Care,Female,Hindi,Assisted,No,Low
+P0148,51.463414,-0.348904,Medium,Medium,60,6,1,10:00,11:00,No,Morning,"Meal Preparation, Mobility Support",Female,Urdu,Assisted,No,Medium
+P0149,51.464518,-0.138009,Low,Medium,30,3,1,16:00,18:00,No,Afternoon,Companionship,Male,Punjabi,Assisted,No,Medium
+P0150,51.463685,-0.301647,Low,Low,30,1,1,15:00,17:00,Yes,Afternoon,Meal Preparation,Female,English,Independent,No,Low
+P0151,51.519004,-0.310199,Low,Low,45,1,1,10:00,14:00,No,Morning,"Meal Preparation, Companionship",Female,Punjabi,Independent,No,Low
+P0152,51.529679,0.157194,Low,Low,30,3,1,18:00,19:00,Yes,Evening,Meal Preparation,Male,Arabic,Independent,No,Medium
+P0153,51.323348,-0.362159,High,Critical,90,12,4,09:00,10:00,Yes,Morning,"Mobility Support, Medication Support, Palliative Care, Dementia Care",No Preference,Punjabi,Bedbound,Yes,High
+P0154,51.409217,0.170706,Medium,Medium,60,5,1,16:00,17:00,Yes,Afternoon,"Medication Support, Personal Care",Male,No Preference,Wheelchair,Yes,Medium
+P0155,51.40812,-0.065059,Medium,High,45,5,2,13:00,17:00,Yes,Afternoon,Medication Support,No Preference,Urdu,Wheelchair,Yes,High
+P0156,51.558223,-0.35571,Medium,High,45,4,1,10:00,14:00,No,Morning,"Medication Support, Mobility Support",No Preference,Arabic,Assisted,Yes,Medium
+P0157,51.470688,0.20325,Medium,Medium,90,3,1,13:00,15:00,Yes,Afternoon,"Meal Preparation, Medication Support",Male,English,Assisted,No,Medium
+P0158,51.329156,0.040641,Low,Low,60,3,1,15:00,19:00,Yes,Afternoon,Personal Care,Male,Urdu,Independent,No,Low
+P0159,51.599839,-0.294108,Low,Low,60,3,1,14:00,18:00,Yes,Afternoon,"Personal Care, Meal Preparation",No Preference,English,Independent,No,Low
+P0160,51.344478,-0.407526,Medium,Medium,90,3,1,18:00,20:00,No,Evening,Mobility Support,Male,Punjabi,Assisted,No,Medium
+P0161,51.339302,-0.288046,Medium,High,45,4,1,07:00,11:00,Yes,Morning,"Meal Preparation, Medication Support",Female,Urdu,Wheelchair,No,High
+P0162,51.569429,-0.077818,Medium,High,45,7,1,12:00,13:00,No,Afternoon,"Medication Support, Mobility Support",Male,Arabic,Assisted,Yes,High
+P0163,51.438539,0.212658,Low,Medium,30,1,1,11:00,14:00,Yes,Morning,"Meal Preparation, Personal Care",Female,No Preference,Independent,No,Low
+P0164,51.609142,-0.206189,Low,Low,30,2,1,10:00,11:00,Yes,Morning,Personal Care,Female,No Preference,Independent,No,Low
+P0165,51.672619,0.079379,Low,Low,60,3,1,13:00,16:00,No,Afternoon,"Personal Care, Companionship",Female,Arabic,Assisted,No,Low
+P0166,51.46829,-0.100338,Low,Medium,45,2,1,11:00,12:00,Yes,Morning,"Personal Care, Companionship",Female,Punjabi,Independent,No,Medium
+P0167,51.525059,-0.156238,Low,Low,30,3,1,06:00,08:00,No,Morning,"Companionship, Personal Care",No Preference,English,Independent,No,Low
+P0168,51.608189,-0.46944,Medium,Medium,60,3,1,13:00,17:00,Yes,Afternoon,"Meal Preparation, Mobility Support",No Preference,Hindi,Wheelchair,No,Medium
+P0169,51.693213,-0.191665,Medium,Medium,60,7,1,10:00,14:00,No,Morning,Mobility Support,Female,Hindi,Wheelchair,No,High
+P0170,51.292018,-0.425864,High,Critical,120,14,3,16:00,17:00,Yes,Afternoon,"Medication Support, Palliative Care",No Preference,Urdu,Wheelchair,Yes,High
+P0171,51.487273,-0.034774,Medium,Medium,60,6,1,10:00,14:00,Yes,Morning,"Medication Support, Meal Preparation, Personal Care",Female,Hindi,Assisted,Yes,Medium
+P0172,51.620387,0.296297,Medium,High,90,3,1,14:00,16:00,No,Afternoon,Medication Support,Male,Arabic,Assisted,No,Medium
+P0173,51.673675,-0.240636,Low,Medium,60,3,1,14:00,15:00,No,Afternoon,"Companionship, Meal Preparation",No Preference,Punjabi,Independent,No,Low
+P0174,51.629984,-0.15299,High,High,90,7,2,14:00,16:00,Yes,Afternoon,"Mobility Support, Palliative Care",Female,No Preference,Bedbound,No,High
+P0175,51.335954,-0.356264,Medium,Medium,45,5,2,10:00,13:00,No,Morning,"Personal Care, Medication Support, Mobility Support",Female,English,Wheelchair,No,Medium
+P0176,51.655368,0.057638,High,Critical,90,14,3,09:00,12:00,Yes,Morning,"Dementia Care, Palliative Care, Mobility Support, Medication Support",Female,No Preference,Bedbound,Yes,High
+P0177,51.643783,-0.296791,High,Critical,90,9,3,16:00,17:00,Yes,Afternoon,"Palliative Care, Dementia Care",No Preference,No Preference,Wheelchair,No,High
+P0178,51.49919,-0.205005,Low,Medium,45,2,1,15:00,16:00,No,Afternoon,Companionship,No Preference,Urdu,Assisted,No,Medium
+P0179,51.501117,0.025576,High,Critical,60,11,2,16:00,18:00,Yes,Afternoon,"Palliative Care, Medication Support, Dementia Care, Mobility Support",No Preference,English,Bedbound,Yes,High
+P0180,51.526908,-0.413784,Medium,High,60,5,1,06:00,09:00,Yes,Morning,"Personal Care, Mobility Support",Female,Arabic,Wheelchair,Yes,Medium
+P0181,51.605976,-0.278647,High,High,60,13,4,14:00,15:00,Yes,Afternoon,"Dementia Care, Mobility Support",No Preference,Arabic,Bedbound,No,Medium
+P0182,51.489228,-0.215757,Low,Low,60,1,1,14:00,16:00,No,Afternoon,Personal Care,Male,Hindi,Assisted,No,Low
+P0183,51.646856,-0.019905,Low,Low,60,1,1,17:00,19:00,Yes,Evening,"Personal Care, Companionship",Female,Urdu,Independent,No,Low
+P0184,51.389479,-0.088448,Medium,Medium,60,4,1,11:00,14:00,Yes,Morning,Meal Preparation,Male,No Preference,Wheelchair,Yes,Medium
+P0185,51.537968,-0.143473,Medium,Medium,90,6,2,10:00,13:00,No,Morning,Medication Support,No Preference,English,Wheelchair,Yes,Medium
+P0186,51.36732,-0.199041,Low,Low,60,3,1,17:00,20:00,Yes,Evening,"Companionship, Meal Preparation",Female,Urdu,Independent,No,Medium
+P0187,51.518646,0.083906,Medium,Medium,60,6,1,13:00,17:00,Yes,Afternoon,"Personal Care, Medication Support, Mobility Support",No Preference,Hindi,Assisted,Yes,Medium
+P0188,51.690368,-0.322664,Medium,High,90,3,1,17:00,20:00,Yes,Evening,Medication Support,Female,English,Wheelchair,No,High
+P0189,51.348168,0.235253,Low,Medium,60,2,1,16:00,20:00,Yes,Afternoon,"Personal Care, Meal Preparation",Female,Hindi,Independent,No,Medium
+P0190,51.286538,0.074855,High,High,60,10,2,17:00,18:00,Yes,Evening,"Dementia Care, Medication Support, Mobility Support",Male,Hindi,Wheelchair,Yes,Medium
+P0191,51.524285,-0.369077,Medium,High,45,6,2,08:00,12:00,No,Morning,"Personal Care, Medication Support",Female,Arabic,Wheelchair,No,Medium
+P0192,51.571152,0.085968,Medium,High,60,3,2,09:00,11:00,Yes,Morning,"Mobility Support, Personal Care, Medication Support",Male,Punjabi,Wheelchair,No,Medium
+P0193,51.509545,-0.274685,Medium,High,90,6,1,07:00,10:00,No,Morning,Meal Preparation,Female,English,Wheelchair,No,Medium
+P0194,51.469668,0.145236,Low,Medium,45,2,1,15:00,16:00,Yes,Afternoon,Companionship,Female,Punjabi,Assisted,No,Medium
+P0195,51.353338,0.118515,Medium,Medium,90,5,1,09:00,11:00,No,Morning,"Personal Care, Medication Support",No Preference,Urdu,Wheelchair,Yes,Medium
+P0196,51.543789,-0.323225,Medium,Medium,45,6,2,09:00,11:00,Yes,Morning,"Meal Preparation, Mobility Support",Female,Arabic,Wheelchair,No,Medium
+P0197,51.319336,-0.220009,Low,Medium,45,1,1,15:00,16:00,Yes,Afternoon,Meal Preparation,Female,Hindi,Assisted,No,Medium
+P0198,51.377729,0.236725,Low,Low,30,1,1,14:00,18:00,Yes,Afternoon,Personal Care,Female,Urdu,Assisted,No,Low
+P0199,51.640139,-0.227534,Low,Low,30,3,1,07:00,10:00,Yes,Morning,"Meal Preparation, Companionship",Female,Arabic,Independent,No,Medium
+P0200,51.684228,-0.066552,Medium,Medium,90,3,2,09:00,12:00,No,Morning,"Meal Preparation, Personal Care, Medication Support",Female,Hindi,Wheelchair,Yes,Medium
+P0201,51.504889,0.084182,High,Critical,60,12,4,17:00,20:00,Yes,Evening,"Palliative Care, Medication Support, Mobility Support, Dementia Care",No Preference,Urdu,Bedbound,Yes,High
+P0202,51.345739,0.018027,High,High,60,12,3,15:00,19:00,No,Afternoon,"Palliative Care, Dementia Care",No Preference,Arabic,Bedbound,Yes,High
+P0203,51.61235,-0.020681,High,High,60,12,2,18:00,21:00,Yes,Evening,"Dementia Care, Medication Support, Palliative Care",Female,No Preference,Wheelchair,Yes,High
+P0204,51.483833,-0.019537,Low,Low,45,1,1,17:00,21:00,Yes,Evening,Meal Preparation,Male,Urdu,Independent,No,Low
+P0205,51.608326,0.264782,Low,Low,30,2,1,08:00,10:00,No,Morning,Meal Preparation,No Preference,Hindi,Independent,No,Low
+P0206,51.556771,-0.230141,High,Critical,60,11,3,14:00,16:00,Yes,Afternoon,"Dementia Care, Mobility Support",Male,Arabic,Wheelchair,Yes,High
+P0207,51.338131,0.273785,Medium,Medium,60,6,2,17:00,20:00,No,Evening,Medication Support,Female,Urdu,Wheelchair,No,Medium
+P0208,51.356381,-0.054471,Medium,Medium,90,3,2,14:00,15:00,Yes,Afternoon,"Meal Preparation, Mobility Support",Female,English,Wheelchair,Yes,High
+P0209,51.567373,-0.090011,Medium,High,45,5,2,12:00,15:00,Yes,Afternoon,Personal Care,Female,Hindi,Assisted,No,Medium
+P0210,51.592514,0.054335,Low,Low,60,3,1,14:00,15:00,Yes,Afternoon,"Meal Preparation, Companionship",Female,Arabic,Independent,No,Medium
+P0211,51.379384,0.101547,High,Critical,90,14,3,18:00,21:00,Yes,Evening,"Palliative Care, Mobility Support, Medication Support, Dementia Care",Female,Urdu,Wheelchair,No,High
+P0212,51.481208,0.181465,Medium,Medium,90,6,2,11:00,13:00,Yes,Morning,Medication Support,Female,Punjabi,Assisted,No,Medium
+P0213,51.306263,0.134402,High,High,120,12,4,06:00,10:00,Yes,Morning,"Medication Support, Dementia Care, Palliative Care",Female,No Preference,Bedbound,No,High
+P0214,51.340394,0.275608,Medium,Medium,45,4,1,12:00,15:00,Yes,Afternoon,Medication Support,Male,Arabic,Assisted,No,Medium
+P0215,51.363974,-0.220881,High,Critical,90,12,4,08:00,12:00,Yes,Morning,"Dementia Care, Mobility Support",Male,Arabic,Wheelchair,Yes,High
+P0216,51.688904,-0.330483,Low,Low,30,3,1,06:00,10:00,Yes,Morning,Companionship,Female,English,Assisted,No,Low
+P0217,51.358314,-0.404714,Medium,Medium,45,7,2,15:00,16:00,Yes,Afternoon,Meal Preparation,Female,Hindi,Assisted,Yes,Medium
+P0218,51.651224,-0.262187,Low,Low,45,1,1,11:00,12:00,Yes,Morning,"Personal Care, Meal Preparation",Male,English,Assisted,No,Low
+P0219,51.405394,-0.200435,High,High,120,14,4,17:00,18:00,Yes,Evening,"Dementia Care, Palliative Care, Mobility Support",Male,Urdu,Bedbound,Yes,High
+P0220,51.562885,0.216225,Medium,Medium,45,7,1,16:00,20:00,Yes,Afternoon,"Personal Care, Medication Support, Mobility Support",Female,Urdu,Wheelchair,Yes,High
+P0221,51.614298,0.226444,Medium,High,60,3,2,09:00,12:00,Yes,Morning,"Mobility Support, Personal Care, Medication Support",Female,Urdu,Assisted,No,High
+P0222,51.393515,-0.213133,Low,Low,45,2,1,18:00,19:00,Yes,Evening,"Companionship, Meal Preparation",No Preference,Hindi,Independent,No,Medium
+P0223,51.53299,0.112288,Medium,Medium,90,4,1,10:00,13:00,Yes,Morning,Mobility Support,Male,Urdu,Assisted,No,Medium
+P0224,51.4474,-0.332148,Medium,Medium,45,6,2,13:00,16:00,Yes,Afternoon,"Meal Preparation, Medication Support, Personal Care",Female,Arabic,Wheelchair,No,Medium
+P0225,51.421344,-0.35677,Low,Medium,60,2,1,14:00,18:00,No,Afternoon,Personal Care,No Preference,Hindi,Assisted,No,Low
+P0226,51.317467,-0.28958,Low,Low,45,1,1,16:00,19:00,Yes,Afternoon,"Meal Preparation, Companionship",No Preference,Urdu,Assisted,No,Low
+P0227,51.358769,-0.486233,Low,Medium,45,1,1,08:00,12:00,Yes,Morning,"Meal Preparation, Companionship",Male,English,Independent,No,Low
+P0228,51.673805,-0.437053,Medium,Medium,60,6,1,06:00,07:00,No,Morning,"Mobility Support, Personal Care, Medication Support",No Preference,Urdu,Assisted,No,Medium
+P0229,51.308356,-0.143837,Low,Low,60,1,1,06:00,09:00,No,Morning,"Personal Care, Meal Preparation",Male,Hindi,Assisted,No,Low
+P0230,51.330713,-0.191774,Low,Medium,60,1,1,13:00,15:00,Yes,Afternoon,Meal Preparation,Male,English,Independent,No,Low
+P0231,51.350817,0.293216,Medium,Medium,60,7,1,12:00,16:00,No,Afternoon,Medication Support,Female,Punjabi,Wheelchair,Yes,Medium
+P0232,51.60371,-0.117204,Low,Medium,45,1,1,11:00,14:00,No,Morning,"Meal Preparation, Personal Care",No Preference,English,Assisted,No,Medium
+P0233,51.586712,0.032086,Low,Low,45,1,1,16:00,20:00,Yes,Afternoon,Meal Preparation,No Preference,Punjabi,Assisted,No,Medium
+P0234,51.565907,0.160726,Medium,Medium,45,3,1,17:00,20:00,Yes,Evening,"Mobility Support, Medication Support",Female,Hindi,Assisted,No,Medium
+P0235,51.557472,0.203411,Low,Low,45,3,1,14:00,15:00,No,Afternoon,"Personal Care, Meal Preparation",Female,Hindi,Independent,No,Low
+P0236,51.336305,-0.235168,Medium,Medium,90,4,1,07:00,08:00,Yes,Morning,"Mobility Support, Meal Preparation, Personal Care",No Preference,Punjabi,Wheelchair,No,Medium
+P0237,51.445406,-0.422817,Low,Medium,45,1,1,06:00,08:00,Yes,Morning,Personal Care,No Preference,No Preference,Assisted,No,Low
+P0238,51.462804,-0.233739,Medium,High,60,3,2,06:00,08:00,No,Morning,"Personal Care, Mobility Support",Male,Punjabi,Wheelchair,Yes,High
+P0239,51.449834,0.143968,Low,Medium,45,3,1,08:00,09:00,Yes,Morning,Companionship,Male,Urdu,Independent,No,Low
+P0240,51.324661,0.209234,High,Critical,90,7,2,15:00,19:00,Yes,Afternoon,"Palliative Care, Medication Support",Female,English,Bedbound,No,High
+P0241,51.629713,-0.143035,Medium,Medium,45,7,2,09:00,10:00,No,Morning,"Personal Care, Medication Support",No Preference,No Preference,Wheelchair,No,High
+P0242,51.434594,-0.085152,High,High,90,12,3,14:00,18:00,No,Afternoon,"Medication Support, Palliative Care, Mobility Support",No Preference,Punjabi,Bedbound,No,High
+P0243,51.601136,-0.322528,Low,Medium,60,2,1,06:00,07:00,Yes,Morning,"Companionship, Meal Preparation",Female,Urdu,Independent,No,Medium
+P0244,51.673302,-0.364694,Low,Low,30,2,1,06:00,07:00,Yes,Morning,Personal Care,Female,English,Assisted,No,Low
+P0245,51.315242,0.088642,Medium,Medium,60,4,2,07:00,08:00,Yes,Morning,"Mobility Support, Personal Care, Meal Preparation",Male,Hindi,Assisted,No,Medium
+P0246,51.559309,-0.112061,Low,Low,60,1,1,11:00,15:00,No,Morning,Companionship,Male,English,Independent,No,Low
+P0247,51.344422,-0.493228,High,Critical,120,13,2,16:00,20:00,Yes,Afternoon,"Palliative Care, Dementia Care, Medication Support, Mobility Support",No Preference,Urdu,Bedbound,Yes,High
+P0248,51.370263,-0.318633,Low,Medium,30,3,1,17:00,20:00,Yes,Evening,Companionship,No Preference,Urdu,Independent,No,Low
+P0249,51.294353,0.014453,Medium,High,60,6,1,11:00,12:00,Yes,Morning,"Mobility Support, Personal Care, Meal Preparation",Male,Punjabi,Wheelchair,No,High
+P0250,51.447377,-0.004109,Low,Low,30,1,1,07:00,08:00,No,Morning,"Personal Care, Meal Preparation",Male,Urdu,Assisted,No,Low
+P0251,51.330201,-0.455382,High,Critical,60,14,3,17:00,19:00,Yes,Evening,"Dementia Care, Mobility Support, Palliative Care, Medication Support",No Preference,Urdu,Wheelchair,No,High
+P0252,51.317932,-0.465747,High,High,120,9,3,15:00,18:00,Yes,Afternoon,"Medication Support, Mobility Support",Male,English,Bedbound,Yes,High
+P0253,51.64291,0.197139,Low,Medium,30,3,1,14:00,17:00,No,Afternoon,"Personal Care, Companionship",No Preference,No Preference,Assisted,No,Low
+P0254,51.422248,-0.416872,Low,Low,30,2,1,09:00,13:00,Yes,Morning,"Personal Care, Companionship",Female,Punjabi,Assisted,No,Low
+P0255,51.666184,-0.029888,Medium,Medium,60,7,2,09:00,12:00,Yes,Morning,"Personal Care, Medication Support, Meal Preparation",No Preference,Hindi,Wheelchair,Yes,Medium
+P0256,51.534428,-0.375787,Medium,High,45,5,1,15:00,17:00,Yes,Afternoon,Medication Support,Male,Hindi,Assisted,No,High
+P0257,51.570985,-0.065972,Low,Low,30,2,1,12:00,16:00,No,Afternoon,Meal Preparation,No Preference,Urdu,Independent,No,Medium
+P0258,51.362811,-0.481386,Medium,Medium,45,3,2,08:00,10:00,Yes,Morning,"Medication Support, Mobility Support",Male,Punjabi,Wheelchair,No,Medium
+P0259,51.472872,0.222463,High,High,90,14,3,06:00,08:00,Yes,Morning,"Palliative Care, Dementia Care, Medication Support",Female,English,Wheelchair,Yes,Medium
+P0260,51.632367,-0.450008,Medium,Medium,45,4,2,17:00,18:00,Yes,Evening,"Meal Preparation, Personal Care",Female,Urdu,Wheelchair,Yes,Medium
+P0261,51.640573,-0.264317,High,High,90,9,2,12:00,14:00,Yes,Afternoon,"Medication Support, Mobility Support, Palliative Care",No Preference,Arabic,Bedbound,Yes,Medium
+P0262,51.546233,-0.332678,Low,Medium,30,3,1,16:00,20:00,Yes,Afternoon,Personal Care,No Preference,English,Independent,No,Low
+P0263,51.6048,-0.436322,Low,Low,45,3,1,10:00,14:00,No,Morning,"Personal Care, Meal Preparation",Male,Urdu,Assisted,No,Low
+P0264,51.38065,0.032826,Medium,Medium,60,5,2,09:00,13:00,Yes,Morning,"Personal Care, Medication Support",Male,Arabic,Assisted,Yes,Medium
+P0265,51.331649,-0.122319,High,High,90,9,3,13:00,15:00,Yes,Afternoon,"Mobility Support, Palliative Care, Medication Support, Dementia Care",No Preference,English,Wheelchair,Yes,High
+P0266,51.65464,-0.47303,High,High,60,13,4,08:00,09:00,Yes,Morning,"Medication Support, Dementia Care, Palliative Care, Mobility Support",No Preference,Arabic,Bedbound,Yes,Medium
+P0267,51.584881,-0.216513,Medium,Medium,60,6,2,09:00,13:00,Yes,Morning,"Medication Support, Mobility Support, Meal Preparation",Female,Urdu,Wheelchair,No,Medium
+P0268,51.342117,-0.150152,Low,Low,60,3,1,13:00,16:00,No,Afternoon,"Meal Preparation, Personal Care",Female,Urdu,Assisted,No,Medium
+P0269,51.673005,-0.384815,High,Critical,120,8,2,15:00,18:00,Yes,Afternoon,"Dementia Care, Mobility Support",No Preference,Hindi,Wheelchair,No,High
+P0270,51.623836,-0.409642,Low,Low,45,3,1,12:00,14:00,Yes,Afternoon,Personal Care,Female,No Preference,Assisted,No,Low
+P0271,51.324323,-0.189072,Low,Low,60,2,1,08:00,09:00,Yes,Morning,Personal Care,Male,Urdu,Independent,No,Low
+P0272,51.557993,-0.263127,Low,Low,30,2,1,08:00,10:00,No,Morning,Personal Care,Male,English,Independent,No,Low
+P0273,51.335047,0.19632,Medium,Medium,90,4,2,11:00,13:00,No,Morning,"Mobility Support, Medication Support",Male,Urdu,Assisted,No,High
+P0274,51.557062,0.221524,High,High,60,12,4,18:00,22:00,Yes,Evening,"Dementia Care, Mobility Support, Medication Support",No Preference,Punjabi,Bedbound,No,Medium
+P0275,51.305282,0.264693,Low,Low,30,2,1,14:00,16:00,No,Afternoon,"Companionship, Personal Care",No Preference,Urdu,Assisted,No,Low
+P0276,51.513931,0.222338,Medium,High,45,4,1,12:00,15:00,No,Afternoon,"Meal Preparation, Medication Support, Mobility Support",Male,Urdu,Assisted,Yes,High
+P0277,51.282625,0.095255,Low,Low,60,1,1,14:00,18:00,No,Afternoon,"Personal Care, Companionship",Female,Urdu,Independent,No,Medium
+P0278,51.527599,0.123507,Medium,Medium,60,5,2,13:00,15:00,No,Afternoon,"Mobility Support, Medication Support",Female,Urdu,Wheelchair,No,Medium
+P0279,51.522162,-0.155994,Low,Low,60,1,1,08:00,09:00,No,Morning,"Companionship, Personal Care",No Preference,No Preference,Assisted,No,Low
+P0280,51.685855,0.128987,Low,Medium,45,3,1,12:00,13:00,Yes,Afternoon,"Companionship, Meal Preparation",Male,Punjabi,Assisted,No,Medium
+P0281,51.53282,0.131177,Medium,Medium,90,4,1,08:00,09:00,Yes,Morning,"Medication Support, Meal Preparation, Personal Care",No Preference,No Preference,Assisted,No,High
+P0282,51.561995,0.182658,Low,Medium,45,1,1,12:00,15:00,Yes,Afternoon,"Personal Care, Companionship",Male,No Preference,Independent,No,Medium
+P0283,51.513635,-0.48734,Medium,Medium,60,3,2,11:00,15:00,Yes,Morning,"Meal Preparation, Medication Support",No Preference,English,Wheelchair,No,High
+P0284,51.365597,-0.053134,Low,Medium,45,2,1,18:00,22:00,Yes,Evening,Personal Care,Male,Urdu,Assisted,No,Medium
+P0285,51.332579,-0.315161,Low,Low,30,3,1,07:00,08:00,Yes,Morning,"Meal Preparation, Companionship",Female,English,Independent,No,Low
+P0286,51.39685,-0.013573,Low,Low,45,2,1,06:00,10:00,No,Morning,Companionship,Female,Hindi,Assisted,No,Low
+P0287,51.685146,-0.109543,High,High,120,10,2,11:00,13:00,No,Morning,"Medication Support, Dementia Care, Palliative Care",Female,Hindi,Bedbound,Yes,High
+P0288,51.616646,0.267785,Medium,High,45,4,1,11:00,12:00,Yes,Morning,"Personal Care, Meal Preparation, Medication Support",No Preference,No Preference,Wheelchair,No,High
+P0289,51.461561,-0.369208,High,High,60,13,4,12:00,15:00,Yes,Afternoon,"Palliative Care, Medication Support",Female,Punjabi,Wheelchair,No,High
+P0290,51.450203,-0.166525,Medium,Medium,90,6,2,14:00,17:00,Yes,Afternoon,"Personal Care, Medication Support, Meal Preparation",Male,No Preference,Assisted,Yes,Medium
+P0291,51.385004,0.245915,High,High,60,9,3,18:00,19:00,No,Evening,"Mobility Support, Medication Support",Female,Hindi,Bedbound,No,High
+P0292,51.304953,0.085885,Low,Medium,45,1,1,06:00,07:00,Yes,Morning,Meal Preparation,Male,No Preference,Independent,No,Low
+P0293,51.400518,-0.418263,High,High,60,13,2,13:00,15:00,No,Afternoon,"Medication Support, Mobility Support, Palliative Care",Female,Arabic,Bedbound,No,High
+P0294,51.682239,-0.440962,Medium,Medium,60,6,2,18:00,19:00,Yes,Evening,"Meal Preparation, Medication Support, Personal Care",Female,No Preference,Assisted,No,Medium
+P0295,51.634295,-0.472247,Medium,Medium,90,6,2,14:00,18:00,No,Afternoon,"Medication Support, Personal Care, Meal Preparation",No Preference,No Preference,Assisted,No,Medium
+P0296,51.294552,-0.192979,Medium,Medium,45,7,1,11:00,13:00,Yes,Morning,Meal Preparation,No Preference,English,Wheelchair,No,Medium
+P0297,51.663009,0.11735,Low,Low,30,1,1,14:00,18:00,No,Afternoon,"Personal Care, Companionship",No Preference,English,Assisted,No,Low
+P0298,51.680572,0.044952,Low,Low,60,1,1,08:00,11:00,No,Morning,"Meal Preparation, Personal Care",No Preference,English,Independent,No,Low
+P0299,51.372233,-0.274443,High,High,60,6,2,14:00,17:00,Yes,Afternoon,"Medication Support, Dementia Care, Mobility Support",No Preference,Punjabi,Wheelchair,Yes,Medium
+P0300,51.471048,-0.225432,Medium,High,45,6,2,08:00,11:00,No,Morning,"Personal Care, Medication Support",No Preference,English,Assisted,No,Medium
+P0301,51.631372,0.091745,Low,Low,30,2,1,09:00,13:00,No,Morning,Meal Preparation,Male,Urdu,Assisted,No,Low
+P0302,51.637234,0.198442,Medium,High,90,7,2,13:00,16:00,No,Afternoon,Meal Preparation,Male,Hindi,Wheelchair,Yes,High
+P0303,51.671142,-0.297731,Medium,Medium,45,7,2,06:00,10:00,Yes,Morning,"Personal Care, Meal Preparation, Medication Support",Male,Hindi,Wheelchair,No,Medium
+P0304,51.655686,-0.173128,Low,Low,60,2,1,18:00,19:00,Yes,Evening,Companionship,Female,Hindi,Independent,No,Low
+P0305,51.521167,-0.319204,Medium,High,90,6,2,12:00,14:00,No,Afternoon,"Personal Care, Meal Preparation",No Preference,English,Wheelchair,Yes,High
+P0306,51.449806,-0.299775,Medium,Medium,45,6,1,17:00,19:00,Yes,Evening,"Meal Preparation, Personal Care, Mobility Support",Female,Arabic,Wheelchair,Yes,Medium
+P0307,51.489075,-0.48145,Low,Low,30,3,1,15:00,19:00,Yes,Afternoon,Meal Preparation,Male,Punjabi,Independent,No,Medium
+P0308,51.556484,-0.165154,Low,Low,45,2,1,10:00,13:00,Yes,Morning,Meal Preparation,Male,No Preference,Assisted,No,Low
+P0309,51.337189,-0.02525,Low,Low,45,1,1,11:00,15:00,Yes,Morning,Personal Care,No Preference,Urdu,Independent,No,Low
+P0310,51.658876,-0.257365,High,High,120,13,2,07:00,10:00,Yes,Morning,"Dementia Care, Palliative Care, Mobility Support",No Preference,Punjabi,Bedbound,Yes,High
+P0311,51.456938,-0.291253,Medium,High,60,7,2,08:00,11:00,No,Morning,Mobility Support,Male,English,Wheelchair,No,High
+P0312,51.56223,-0.486974,Low,Low,60,3,1,16:00,18:00,Yes,Afternoon,"Meal Preparation, Companionship",Male,No Preference,Independent,No,Low
+P0313,51.573006,-0.46561,High,Critical,120,13,4,11:00,14:00,Yes,Morning,"Dementia Care, Mobility Support",Female,Hindi,Wheelchair,No,High
+P0314,51.504416,-0.363484,Low,Medium,60,2,1,15:00,18:00,No,Afternoon,"Personal Care, Meal Preparation",Female,English,Independent,No,Medium
+P0315,51.59785,-0.01096,Medium,Medium,60,5,1,13:00,15:00,Yes,Afternoon,"Medication Support, Personal Care",Female,Punjabi,Wheelchair,Yes,Medium
+P0316,51.574633,-0.040954,Low,Medium,60,2,1,17:00,19:00,Yes,Evening,"Meal Preparation, Companionship",Male,Arabic,Independent,No,Medium
+P0317,51.28911,-0.047829,Medium,High,45,5,1,11:00,15:00,No,Morning,"Meal Preparation, Medication Support, Personal Care",Female,Punjabi,Assisted,No,Medium
+P0318,51.449374,-0.29134,Medium,Medium,60,6,1,14:00,18:00,No,Afternoon,"Medication Support, Meal Preparation",No Preference,Arabic,Wheelchair,Yes,Medium
+P0319,51.337823,-0.446167,Medium,Medium,60,5,1,07:00,10:00,No,Morning,Personal Care,No Preference,Arabic,Assisted,No,Medium
+P0320,51.49174,0.206007,Medium,Medium,90,3,2,13:00,15:00,No,Afternoon,"Medication Support, Meal Preparation",Male,No Preference,Assisted,Yes,Medium
+P0321,51.520369,-0.333251,High,Critical,120,14,4,08:00,09:00,Yes,Morning,"Dementia Care, Palliative Care",Male,Arabic,Bedbound,Yes,High
+P0322,51.332268,0.193153,Low,Medium,45,1,1,13:00,14:00,Yes,Afternoon,"Meal Preparation, Companionship",Female,Arabic,Independent,No,Medium
+P0323,51.528059,-0.410102,High,Critical,120,12,4,18:00,19:00,Yes,Evening,"Medication Support, Dementia Care, Palliative Care",No Preference,English,Bedbound,Yes,High
+P0324,51.648563,-0.351758,Medium,Medium,45,7,1,06:00,08:00,No,Morning,Medication Support,Female,Arabic,Assisted,No,Medium
+P0325,51.621091,-0.125524,Medium,Medium,60,6,1,13:00,15:00,No,Afternoon,Mobility Support,Female,English,Assisted,No,High
+P0326,51.617994,-0.406966,Low,Low,30,2,1,16:00,18:00,No,Afternoon,"Meal Preparation, Companionship",Female,Arabic,Assisted,No,Low
+P0327,51.574851,-0.000953,Low,Medium,60,3,1,16:00,18:00,Yes,Afternoon,"Personal Care, Meal Preparation",Female,Urdu,Assisted,No,Medium
+P0328,51.426444,0.187693,Low,Low,30,2,1,15:00,16:00,Yes,Afternoon,"Companionship, Meal Preparation",Female,English,Independent,No,Low
+P0329,51.330075,0.226983,Medium,Medium,90,4,1,06:00,09:00,No,Morning,"Mobility Support, Meal Preparation, Medication Support",Female,Arabic,Assisted,Yes,Medium
+P0330,51.628613,0.025126,Low,Low,60,2,1,09:00,11:00,No,Morning,Personal Care,No Preference,Arabic,Independent,No,Low
+P0331,51.441235,-0.127573,Low,Low,60,2,1,06:00,07:00,No,Morning,"Meal Preparation, Companionship",No Preference,No Preference,Assisted,No,Low
+P0332,51.451713,-0.471334,Medium,Medium,90,3,2,10:00,13:00,Yes,Morning,"Mobility Support, Meal Preparation",Male,No Preference,Wheelchair,Yes,Medium
+P0333,51.697439,-0.04115,Medium,Medium,45,5,1,06:00,08:00,Yes,Morning,"Medication Support, Personal Care",Female,English,Assisted,Yes,High
+P0334,51.375612,-0.155224,Medium,Medium,90,3,2,06:00,08:00,No,Morning,"Meal Preparation, Mobility Support, Medication Support",No Preference,Punjabi,Wheelchair,No,Medium
+P0335,51.404852,-0.44401,Medium,Medium,45,4,2,15:00,19:00,No,Afternoon,Medication Support,Female,Punjabi,Wheelchair,No,Medium
+P0336,51.454567,-0.370062,High,Critical,120,10,2,08:00,10:00,Yes,Morning,"Palliative Care, Dementia Care, Medication Support, Mobility Support",Male,Hindi,Wheelchair,Yes,High
+P0337,51.345068,-0.465576,Medium,Medium,90,6,1,12:00,13:00,No,Afternoon,"Mobility Support, Personal Care",No Preference,English,Assisted,No,Medium
+P0338,51.308657,-0.227415,High,High,120,14,4,11:00,13:00,No,Morning,"Mobility Support, Palliative Care, Medication Support",Male,No Preference,Wheelchair,Yes,High
+P0339,51.628251,0.253642,Low,Low,45,2,1,16:00,18:00,Yes,Afternoon,"Companionship, Personal Care",Female,Arabic,Assisted,No,Low
+P0340,51.607215,-0.349371,High,High,90,6,2,08:00,12:00,Yes,Morning,"Dementia Care, Medication Support, Mobility Support, Palliative Care",Female,Punjabi,Bedbound,Yes,High
+P0341,51.337222,0.277257,Medium,Medium,60,4,2,13:00,15:00,Yes,Afternoon,"Personal Care, Meal Preparation",Female,Hindi,Wheelchair,Yes,Medium
+P0342,51.675176,-0.202224,Medium,Medium,45,4,2,06:00,09:00,No,Morning,"Medication Support, Meal Preparation, Personal Care",Female,Hindi,Wheelchair,Yes,Medium
+P0343,51.613254,0.170001,Medium,Medium,60,5,1,07:00,11:00,Yes,Morning,"Meal Preparation, Medication Support",Female,Arabic,Wheelchair,No,Medium
+P0344,51.541848,-0.20375,Medium,High,90,4,1,17:00,21:00,Yes,Evening,"Personal Care, Mobility Support, Medication Support",Male,English,Wheelchair,Yes,High
+P0345,51.380439,0.295791,Medium,Medium,45,5,1,08:00,10:00,No,Morning,"Personal Care, Medication Support, Meal Preparation",Female,Punjabi,Assisted,No,Medium
+P0346,51.408822,0.155923,Low,Low,60,1,1,14:00,18:00,Yes,Afternoon,"Personal Care, Meal Preparation",Male,Arabic,Independent,No,Low
+P0347,51.329314,-0.002458,Medium,Medium,60,4,2,06:00,08:00,No,Morning,"Personal Care, Medication Support, Mobility Support",No Preference,Hindi,Assisted,No,Medium
+P0348,51.387344,0.147552,Low,Medium,45,2,1,17:00,20:00,No,Evening,Meal Preparation,No Preference,No Preference,Assisted,No,Medium
+P0349,51.389337,0.072076,Medium,Medium,90,5,2,11:00,13:00,Yes,Morning,"Personal Care, Medication Support",No Preference,Urdu,Wheelchair,No,Medium
+P0350,51.673366,0.245766,Low,Low,60,1,1,06:00,08:00,Yes,Morning,"Companionship, Personal Care",Male,No Preference,Assisted,No,Low
+P0351,51.568672,0.074621,High,Critical,120,13,4,15:00,17:00,Yes,Afternoon,"Mobility Support, Dementia Care, Medication Support",Female,Arabic,Wheelchair,Yes,High
+P0352,51.51709,-0.452999,High,Critical,120,14,4,13:00,17:00,Yes,Afternoon,"Medication Support, Dementia Care, Palliative Care",Female,English,Wheelchair,Yes,High
+P0353,51.666873,-0.193602,Medium,Medium,45,5,1,10:00,13:00,Yes,Morning,"Mobility Support, Meal Preparation, Medication Support",Female,Urdu,Assisted,No,Medium
+P0354,51.409953,-0.497571,High,High,90,14,3,14:00,15:00,No,Afternoon,"Dementia Care, Mobility Support, Palliative Care",Female,English,Bedbound,Yes,Medium
+P0355,51.386556,0.287614,Medium,Medium,45,5,1,16:00,18:00,No,Afternoon,"Mobility Support, Medication Support",Female,Urdu,Wheelchair,Yes,Medium
+P0356,51.68071,-0.340842,Low,Low,30,3,1,11:00,13:00,Yes,Morning,Personal Care,Female,Punjabi,Independent,No,Low
+P0357,51.653118,0.26292,Low,Low,45,3,1,12:00,14:00,Yes,Afternoon,Companionship,No Preference,English,Independent,No,Low
+P0358,51.564493,-0.438725,Medium,Medium,90,5,2,17:00,21:00,Yes,Evening,Medication Support,Male,Arabic,Wheelchair,No,Medium
+P0359,51.684872,0.052125,Medium,Medium,60,6,1,07:00,09:00,No,Morning,"Meal Preparation, Medication Support",Male,English,Assisted,No,High
+P0360,51.326747,-0.415445,High,High,90,10,3,06:00,10:00,No,Morning,"Dementia Care, Medication Support",Female,Urdu,Wheelchair,No,High
+P0361,51.476372,-0.416132,High,Critical,90,13,4,07:00,09:00,Yes,Morning,"Palliative Care, Medication Support",Male,Hindi,Wheelchair,Yes,High
+P0362,51.557442,-0.292091,High,High,120,9,3,15:00,19:00,No,Afternoon,"Medication Support, Mobility Support",Female,Hindi,Bedbound,Yes,Medium
+P0363,51.330354,0.18654,Low,Low,60,2,1,18:00,20:00,No,Evening,Meal Preparation,No Preference,Hindi,Independent,No,Medium
+P0364,51.352881,0.157391,Low,Low,60,1,1,07:00,10:00,No,Morning,Companionship,Male,Punjabi,Assisted,No,Low
+P0365,51.608325,-0.423238,Medium,Medium,90,5,2,07:00,11:00,Yes,Morning,"Meal Preparation, Medication Support, Personal Care",Male,Hindi,Wheelchair,No,High
+P0366,51.46974,0.094749,Low,Low,60,2,1,09:00,10:00,Yes,Morning,"Companionship, Meal Preparation",No Preference,Arabic,Independent,No,Medium
+P0367,51.562833,-0.198762,High,High,120,10,3,08:00,11:00,No,Morning,"Palliative Care, Mobility Support, Dementia Care, Medication Support",Female,Urdu,Bedbound,No,High
+P0368,51.632971,0.105432,Medium,Medium,60,6,2,13:00,14:00,No,Afternoon,"Meal Preparation, Medication Support",Male,Urdu,Wheelchair,Yes,High
+P0369,51.471004,-0.067476,High,Critical,120,6,2,13:00,16:00,Yes,Afternoon,"Medication Support, Palliative Care, Mobility Support",Male,Urdu,Wheelchair,No,High
+P0370,51.334182,0.167268,Low,Medium,30,1,1,18:00,20:00,Yes,Evening,Meal Preparation,Male,Urdu,Independent,No,Low
+P0371,51.548197,0.14818,Low,Low,60,3,1,09:00,11:00,Yes,Morning,Meal Preparation,No Preference,Arabic,Assisted,No,Low
+P0372,51.288925,0.079776,Low,Medium,30,3,1,15:00,17:00,Yes,Afternoon,Companionship,Female,Arabic,Independent,No,Medium
+P0373,51.525368,-0.258703,High,High,90,13,4,11:00,15:00,No,Morning,"Palliative Care, Mobility Support, Medication Support",Female,Hindi,Wheelchair,Yes,High
+P0374,51.447172,0.275447,Low,Low,30,3,1,15:00,17:00,Yes,Afternoon,Personal Care,Female,Punjabi,Assisted,No,Low
+P0375,51.313693,0.210668,Low,Low,30,3,1,06:00,10:00,No,Morning,Meal Preparation,Female,No Preference,Assisted,No,Low
+P0376,51.593612,-0.485185,Medium,Medium,60,7,1,10:00,11:00,No,Morning,"Meal Preparation, Medication Support, Personal Care",Male,Urdu,Wheelchair,No,Medium
+P0377,51.451896,-0.036865,High,High,60,9,2,18:00,21:00,Yes,Evening,"Dementia Care, Medication Support",Female,Arabic,Wheelchair,No,High
+P0378,51.578283,0.279752,Medium,Medium,90,3,1,07:00,10:00,Yes,Morning,"Mobility Support, Medication Support, Meal Preparation",Male,Urdu,Wheelchair,Yes,Medium
+P0379,51.669051,-0.102286,Medium,Medium,90,3,2,10:00,12:00,Yes,Morning,Mobility Support,No Preference,Urdu,Assisted,Yes,Medium
+P0380,51.285873,-0.133198,Low,Low,60,2,1,09:00,11:00,No,Morning,"Personal Care, Companionship",Female,Urdu,Assisted,No,Low
+P0381,51.553906,-0.240414,Low,Medium,60,2,1,10:00,12:00,No,Morning,"Meal Preparation, Companionship",Female,Arabic,Independent,No,Medium
+P0382,51.491991,0.000937,Medium,High,90,4,1,07:00,11:00,Yes,Morning,"Mobility Support, Personal Care",Female,No Preference,Assisted,No,High
+P0383,51.47029,0.208821,Medium,Medium,90,3,1,09:00,12:00,Yes,Morning,"Personal Care, Meal Preparation, Medication Support",Male,Hindi,Wheelchair,Yes,Medium
+P0384,51.395883,-0.462866,Low,Low,30,2,1,17:00,21:00,Yes,Evening,Companionship,Female,Punjabi,Assisted,No,Low
+P0385,51.433917,-0.061174,Low,Low,30,3,1,14:00,16:00,No,Afternoon,Meal Preparation,Male,No Preference,Assisted,No,Low
+P0386,51.42076,-0.42353,Medium,Medium,60,3,1,11:00,15:00,No,Morning,Personal Care,Male,Hindi,Assisted,No,High
+P0387,51.502957,-0.069714,Low,Low,45,1,1,09:00,12:00,Yes,Morning,Meal Preparation,Female,English,Assisted,No,Low
+P0388,51.582542,-0.411515,High,Critical,120,9,3,07:00,11:00,Yes,Morning,"Mobility Support, Dementia Care, Medication Support",No Preference,No Preference,Bedbound,Yes,High
+P0389,51.454478,-0.254294,Medium,Medium,45,6,2,09:00,10:00,No,Morning,"Meal Preparation, Medication Support",Female,Hindi,Wheelchair,No,Medium
+P0390,51.28413,-0.147261,Low,Medium,45,1,1,15:00,18:00,Yes,Afternoon,Companionship,Male,Arabic,Independent,No,Low
+P0391,51.282031,-0.413194,Low,Low,45,1,1,16:00,19:00,Yes,Afternoon,Personal Care,No Preference,No Preference,Assisted,No,Low
+P0392,51.470462,0.043222,Medium,Medium,60,6,1,09:00,10:00,No,Morning,"Personal Care, Meal Preparation",Female,Arabic,Wheelchair,No,High
+P0393,51.573903,-0.152868,High,Critical,60,13,4,11:00,15:00,Yes,Morning,"Mobility Support, Dementia Care, Medication Support, Palliative Care",No Preference,Arabic,Wheelchair,Yes,High
+P0394,51.373824,-0.390961,High,High,90,12,4,10:00,13:00,Yes,Morning,"Palliative Care, Dementia Care",No Preference,No Preference,Bedbound,Yes,Medium
+P0395,51.296896,0.217818,High,High,90,7,2,12:00,13:00,Yes,Afternoon,"Medication Support, Dementia Care, Palliative Care, Mobility Support",Male,No Preference,Wheelchair,Yes,High
+P0396,51.38686,0.232849,High,Critical,120,13,3,13:00,15:00,Yes,Afternoon,"Dementia Care, Mobility Support",Female,Hindi,Wheelchair,No,High
+P0397,51.337832,-0.382379,Low,Low,45,3,1,09:00,10:00,No,Morning,"Meal Preparation, Companionship",Male,Punjabi,Independent,No,Low
+P0398,51.654796,-0.322906,Low,Medium,45,1,1,14:00,15:00,No,Afternoon,Companionship,Female,No Preference,Assisted,No,Medium
+P0399,51.690298,0.054939,High,High,60,10,2,07:00,08:00,No,Morning,"Dementia Care, Palliative Care",No Preference,Urdu,Bedbound,No,Medium
+P0400,51.464896,0.172963,High,Critical,120,11,2,11:00,14:00,Yes,Morning,"Mobility Support, Medication Support, Palliative Care, Dementia Care",Male,Punjabi,Wheelchair,Yes,High
+P0401,51.313383,0.130461,Low,Medium,45,3,1,14:00,17:00,No,Afternoon,Personal Care,Male,Urdu,Assisted,No,Medium
+P0402,51.294513,0.004854,Low,Low,60,2,1,07:00,10:00,Yes,Morning,Meal Preparation,No Preference,Urdu,Assisted,No,Low
+P0403,51.406082,-0.340517,Low,Low,30,2,1,08:00,11:00,No,Morning,"Companionship, Meal Preparation",No Preference,Punjabi,Independent,No,Low
+P0404,51.437406,-0.080572,Low,Low,30,1,1,17:00,20:00,No,Evening,"Meal Preparation, Personal Care",Male,Arabic,Independent,No,Low
+P0405,51.539292,-0.28603,Medium,High,60,7,1,18:00,22:00,No,Evening,Medication Support,Male,No Preference,Wheelchair,No,Medium
+P0406,51.612598,0.280038,Medium,Medium,45,6,1,06:00,08:00,No,Morning,Personal Care,Male,Urdu,Assisted,No,Medium
+P0407,51.691431,-0.235682,Medium,Medium,60,4,1,15:00,16:00,Yes,Afternoon,Personal Care,Female,Urdu,Assisted,No,High
+P0408,51.505785,0.186009,High,High,120,7,2,13:00,17:00,Yes,Afternoon,"Mobility Support, Palliative Care, Medication Support, Dementia Care",No Preference,Urdu,Bedbound,Yes,High
+P0409,51.619854,0.049829,Low,Low,30,2,1,10:00,11:00,Yes,Morning,Companionship,Female,Hindi,Independent,No,Medium
+P0410,51.304365,-0.494033,Low,Low,30,2,1,13:00,14:00,Yes,Afternoon,"Companionship, Meal Preparation",Male,Arabic,Independent,No,Low
+P0411,51.357137,0.018637,High,High,120,12,4,18:00,19:00,Yes,Evening,"Dementia Care, Medication Support",No Preference,No Preference,Wheelchair,Yes,High
+P0412,51.652879,0.134282,Medium,Medium,45,7,1,18:00,19:00,Yes,Evening,"Meal Preparation, Medication Support",Male,No Preference,Assisted,No,High
+P0413,51.319877,0.180207,Medium,Medium,45,5,2,06:00,08:00,Yes,Morning,Medication Support,Male,No Preference,Wheelchair,Yes,High
+P0414,51.393108,-0.321971,Medium,Medium,90,5,1,11:00,15:00,Yes,Morning,"Medication Support, Personal Care",Male,Arabic,Wheelchair,No,Medium
+P0415,51.590446,-0.093481,Low,Low,45,1,1,07:00,09:00,Yes,Morning,Companionship,Male,Hindi,Assisted,No,Low
+P0416,51.352605,-0.099784,Medium,Medium,45,5,2,13:00,17:00,Yes,Afternoon,Meal Preparation,No Preference,No Preference,Assisted,No,High
+P0417,51.486641,0.076459,Medium,Medium,60,6,1,13:00,15:00,No,Afternoon,"Meal Preparation, Mobility Support, Medication Support",No Preference,Hindi,Assisted,No,High
+P0418,51.347294,0.187103,High,High,120,13,4,09:00,11:00,No,Morning,"Palliative Care, Mobility Support",Female,No Preference,Bedbound,Yes,Medium
+P0419,51.289494,-0.445231,Low,Medium,45,1,1,18:00,22:00,No,Evening,Meal Preparation,Male,English,Assisted,No,Medium
+P0420,51.642943,-0.208053,Low,Low,30,1,1,10:00,12:00,No,Morning,Personal Care,Male,No Preference,Independent,No,Medium
+P0421,51.640599,-0.353273,Medium,High,90,4,2,12:00,13:00,No,Afternoon,"Personal Care, Medication Support",Male,Punjabi,Wheelchair,No,Medium
+P0422,51.38501,0.298918,Medium,High,90,5,2,14:00,17:00,Yes,Afternoon,"Personal Care, Mobility Support",No Preference,Arabic,Wheelchair,No,High
+P0423,51.434299,-0.442018,Medium,High,90,6,1,09:00,12:00,No,Morning,"Medication Support, Personal Care",Male,Urdu,Assisted,No,High
+P0424,51.377114,-0.473337,Medium,Medium,60,4,1,10:00,14:00,No,Morning,"Personal Care, Medication Support, Meal Preparation",Female,English,Wheelchair,Yes,Medium
+P0425,51.360025,-0.096033,High,High,90,13,2,12:00,15:00,No,Afternoon,"Palliative Care, Medication Support, Mobility Support",No Preference,Urdu,Bedbound,Yes,High
+P0426,51.627304,0.13155,Low,Low,45,3,1,08:00,11:00,No,Morning,"Companionship, Personal Care",No Preference,Urdu,Assisted,No,Low
+P0427,51.512442,-0.297606,High,High,120,14,4,07:00,10:00,No,Morning,"Mobility Support, Dementia Care, Medication Support",Male,Punjabi,Wheelchair,Yes,High
+P0428,51.48168,0.23895,High,High,60,10,3,11:00,12:00,No,Morning,"Medication Support, Mobility Support, Palliative Care",No Preference,Arabic,Wheelchair,Yes,High
+P0429,51.56327,-0.08564,High,High,120,14,2,12:00,16:00,Yes,Afternoon,"Medication Support, Palliative Care, Dementia Care",Female,English,Bedbound,Yes,High
+P0430,51.565836,-0.32987,Medium,High,90,5,2,11:00,12:00,Yes,Morning,Medication Support,No Preference,No Preference,Assisted,Yes,High
+P0431,51.424464,-0.057841,Low,Medium,45,3,1,06:00,09:00,Yes,Morning,"Companionship, Personal Care",No Preference,Hindi,Assisted,No,Low
+P0432,51.301555,-0.449308,Low,Medium,60,1,1,08:00,10:00,No,Morning,"Companionship, Personal Care",No Preference,No Preference,Assisted,No,Low
+P0433,51.694424,-0.163524,High,High,60,11,2,12:00,13:00,Yes,Afternoon,"Dementia Care, Mobility Support",Female,Punjabi,Wheelchair,Yes,High
+P0434,51.699816,-0.334904,Low,Low,30,1,1,09:00,13:00,No,Morning,"Personal Care, Companionship",Male,Punjabi,Independent,No,Low
+P0435,51.625537,-0.154786,Medium,Medium,90,3,1,13:00,17:00,No,Afternoon,Personal Care,No Preference,Punjabi,Wheelchair,No,Medium
+P0436,51.578865,0.196973,Medium,Medium,60,3,2,06:00,10:00,No,Morning,"Medication Support, Meal Preparation",Male,Hindi,Wheelchair,No,Medium
+P0437,51.460213,0.193149,Medium,Medium,60,6,2,16:00,20:00,No,Afternoon,"Medication Support, Personal Care",No Preference,No Preference,Assisted,Yes,Medium
+P0438,51.397046,-0.170243,High,Critical,90,14,4,10:00,11:00,Yes,Morning,"Mobility Support, Medication Support",No Preference,Hindi,Bedbound,Yes,High
+P0439,51.442096,-0.394308,Medium,Medium,90,3,2,07:00,09:00,Yes,Morning,Medication Support,Male,Punjabi,Assisted,No,Medium
+P0440,51.440743,0.125837,Low,Medium,30,2,1,09:00,11:00,No,Morning,Personal Care,Male,No Preference,Independent,No,Medium
+P0441,51.648236,0.105731,High,High,90,14,4,15:00,16:00,No,Afternoon,"Medication Support, Palliative Care, Mobility Support, Dementia Care",Male,English,Wheelchair,Yes,High
+P0442,51.386588,0.29751,High,Critical,120,14,4,16:00,18:00,Yes,Afternoon,"Mobility Support, Palliative Care, Dementia Care",Male,Hindi,Wheelchair,Yes,High
+P0443,51.422115,0.147496,Medium,Medium,90,7,1,18:00,22:00,Yes,Evening,"Mobility Support, Meal Preparation, Medication Support",Male,Hindi,Assisted,No,High
+P0444,51.549304,0.083653,High,High,120,12,3,11:00,15:00,No,Morning,"Mobility Support, Medication Support, Palliative Care, Dementia Care",Female,Arabic,Bedbound,Yes,High
+P0445,51.345861,-0.007137,Low,Low,45,2,1,18:00,21:00,No,Evening,"Companionship, Personal Care",No Preference,English,Assisted,No,Medium
+P0446,51.370765,-0.442304,Low,Low,45,2,1,06:00,09:00,Yes,Morning,"Companionship, Meal Preparation",Female,English,Assisted,No,Low
+P0447,51.546349,-0.157565,Medium,Medium,60,3,1,11:00,13:00,Yes,Morning,Medication Support,Female,Arabic,Assisted,Yes,High
+P0448,51.692715,0.186519,Low,Low,60,3,1,18:00,21:00,No,Evening,Personal Care,No Preference,English,Assisted,No,Low
+P0449,51.559176,-0.03001,Low,Low,60,2,1,07:00,11:00,Yes,Morning,"Companionship, Personal Care",Male,Urdu,Independent,No,Low
+P0450,51.485199,-0.143021,Low,Medium,60,2,1,07:00,09:00,No,Morning,"Companionship, Personal Care",Male,No Preference,Independent,No,Medium
+P0451,51.328726,0.254381,Medium,Medium,45,3,2,08:00,09:00,No,Morning,Personal Care,Male,No Preference,Assisted,No,High
+P0452,51.588323,-0.231377,Low,Low,30,3,1,08:00,09:00,Yes,Morning,Meal Preparation,Male,English,Independent,No,Low
+P0453,51.543733,-0.299152,Low,Low,45,2,1,07:00,09:00,No,Morning,"Personal Care, Meal Preparation",Female,Urdu,Assisted,No,Medium
+P0454,51.346301,-0.161685,Medium,Medium,45,7,2,07:00,10:00,Yes,Morning,"Meal Preparation, Mobility Support",No Preference,Urdu,Wheelchair,Yes,Medium
+P0455,51.531312,-0.275834,Low,Low,45,1,1,06:00,09:00,No,Morning,"Meal Preparation, Personal Care",Male,Punjabi,Assisted,No,Low
+P0456,51.437423,-0.144854,High,Critical,90,9,3,15:00,19:00,Yes,Afternoon,"Palliative Care, Mobility Support",Female,Urdu,Wheelchair,No,High
+P0457,51.362188,-0.311209,Medium,High,45,4,2,10:00,14:00,Yes,Morning,"Medication Support, Personal Care",Male,English,Wheelchair,No,High
+P0458,51.394469,0.063102,Low,Low,30,2,1,17:00,20:00,No,Evening,"Personal Care, Meal Preparation",No Preference,English,Independent,No,Low
+P0459,51.54967,0.157061,Low,Medium,60,1,1,06:00,10:00,Yes,Morning,Companionship,Male,Punjabi,Independent,No,Low
+P0460,51.482949,-0.113807,Medium,High,90,3,1,13:00,15:00,Yes,Afternoon,"Meal Preparation, Medication Support, Personal Care",Male,Hindi,Wheelchair,Yes,High
+P0461,51.699763,-0.245842,Low,Low,30,3,1,08:00,11:00,Yes,Morning,Companionship,No Preference,Urdu,Assisted,No,Low
+P0462,51.327508,-0.04816,Medium,High,45,4,2,06:00,10:00,Yes,Morning,Meal Preparation,No Preference,No Preference,Assisted,No,High
+P0463,51.662081,-0.220807,Medium,Medium,60,5,1,06:00,09:00,No,Morning,Personal Care,Female,English,Assisted,No,Medium
+P0464,51.442129,-0.278971,High,Critical,120,14,2,11:00,14:00,Yes,Morning,"Medication Support, Mobility Support",No Preference,Punjabi,Wheelchair,Yes,High
+P0465,51.47834,-0.483172,Low,Medium,60,1,1,08:00,12:00,Yes,Morning,"Personal Care, Meal Preparation",Male,Urdu,Assisted,No,Medium
+P0466,51.583958,-0.437211,Low,Medium,45,3,1,07:00,11:00,Yes,Morning,Personal Care,Female,Arabic,Independent,No,Medium
+P0467,51.499034,0.226117,Low,Low,30,2,1,08:00,11:00,Yes,Morning,Personal Care,Male,No Preference,Independent,No,Low
+P0468,51.290274,0.225115,High,High,90,13,3,17:00,18:00,No,Evening,"Dementia Care, Mobility Support, Palliative Care, Medication Support",No Preference,Urdu,Wheelchair,Yes,High
+P0469,51.290867,-0.302283,High,Critical,120,14,3,18:00,20:00,Yes,Evening,"Palliative Care, Dementia Care, Medication Support",Female,Arabic,Bedbound,No,High
+P0470,51.551349,-0.054509,Medium,Medium,90,6,1,13:00,15:00,Yes,Afternoon,"Personal Care, Meal Preparation, Medication Support",Female,Punjabi,Wheelchair,Yes,High
+P0471,51.659046,-0.449115,High,Critical,60,13,4,11:00,14:00,Yes,Morning,"Mobility Support, Palliative Care, Medication Support",Female,Hindi,Wheelchair,Yes,High
+P0472,51.507037,-0.218251,Medium,High,90,7,1,08:00,09:00,Yes,Morning,"Medication Support, Personal Care, Meal Preparation",No Preference,Urdu,Wheelchair,No,Medium
+P0473,51.501773,0.269174,High,High,120,10,3,09:00,12:00,Yes,Morning,"Medication Support, Mobility Support",No Preference,Hindi,Bedbound,Yes,High
+P0474,51.506799,-0.309349,Medium,Medium,60,7,1,15:00,17:00,Yes,Afternoon,Mobility Support,No Preference,Hindi,Assisted,No,Medium
+P0475,51.410164,-0.268103,Medium,Medium,60,4,2,12:00,15:00,No,Afternoon,"Mobility Support, Meal Preparation, Medication Support",Male,Urdu,Assisted,Yes,Medium
+P0476,51.488722,0.195192,Medium,Medium,60,4,2,18:00,19:00,Yes,Evening,"Mobility Support, Personal Care, Meal Preparation",Male,No Preference,Assisted,Yes,Medium
+P0477,51.392229,0.296263,Low,Medium,60,2,1,14:00,17:00,Yes,Afternoon,Personal Care,No Preference,English,Assisted,No,Medium
+P0478,51.570095,-0.342424,Low,Medium,60,2,1,15:00,19:00,No,Afternoon,"Personal Care, Meal Preparation",No Preference,Urdu,Assisted,No,Medium
+P0479,51.491052,-0.325657,Low,Low,60,3,1,08:00,10:00,Yes,Morning,Meal Preparation,Male,English,Independent,No,Medium
+P0480,51.584798,-0.051657,Low,Medium,30,1,1,18:00,22:00,No,Evening,Personal Care,Male,Hindi,Assisted,No,Low
+P0481,51.564403,0.264539,Low,Low,60,1,1,06:00,10:00,Yes,Morning,"Companionship, Personal Care",Male,Hindi,Independent,No,Medium
+P0482,51.522305,-0.479102,Medium,Medium,45,7,1,14:00,18:00,No,Afternoon,"Mobility Support, Medication Support",Male,Urdu,Wheelchair,No,Medium
+P0483,51.620766,-0.106682,High,High,60,13,4,17:00,18:00,Yes,Evening,"Mobility Support, Palliative Care",Male,Arabic,Bedbound,No,High
+P0484,51.528729,-0.194961,Low,Low,60,3,1,08:00,11:00,No,Morning,"Personal Care, Meal Preparation",No Preference,Arabic,Assisted,No,Low
+P0485,51.412511,0.225034,Low,Low,60,3,1,10:00,14:00,No,Morning,Meal Preparation,Female,Urdu,Assisted,No,Low
+P0486,51.347667,-0.301641,High,Critical,120,6,2,06:00,08:00,Yes,Morning,"Medication Support, Dementia Care, Palliative Care",Male,No Preference,Bedbound,No,High
+P0487,51.328433,-0.168897,Low,Low,45,1,1,07:00,11:00,Yes,Morning,Personal Care,Male,No Preference,Assisted,No,Low
+P0488,51.345516,0.107444,Low,Low,60,3,1,13:00,16:00,No,Afternoon,"Personal Care, Meal Preparation",Male,English,Independent,No,Low
+P0489,51.378588,-0.167459,Low,Low,30,1,1,15:00,19:00,No,Afternoon,"Meal Preparation, Personal Care",Male,Urdu,Independent,No,Low
+P0490,51.542601,0.296983,High,High,60,11,2,08:00,11:00,No,Morning,"Mobility Support, Palliative Care",Female,Hindi,Wheelchair,Yes,High
+P0491,51.499356,-0.231064,Medium,High,45,5,2,06:00,10:00,Yes,Morning,Personal Care,Female,Punjabi,Wheelchair,Yes,High
+P0492,51.482067,-0.184273,Medium,High,45,3,1,14:00,18:00,Yes,Afternoon,"Mobility Support, Personal Care",Male,Punjabi,Wheelchair,Yes,High
+P0493,51.280995,0.243465,Medium,High,60,3,1,10:00,13:00,Yes,Morning,Mobility Support,Male,English,Wheelchair,No,High
+P0494,51.629684,-0.223466,High,Critical,90,13,4,17:00,20:00,Yes,Evening,"Mobility Support, Medication Support, Dementia Care",No Preference,Urdu,Bedbound,Yes,High
+P0495,51.325529,-0.464802,Low,Low,60,1,1,06:00,10:00,No,Morning,Meal Preparation,Male,English,Independent,No,Low
+P0496,51.343216,0.283193,Low,Low,30,1,1,15:00,16:00,Yes,Afternoon,"Meal Preparation, Personal Care",No Preference,No Preference,Independent,No,Low
+P0497,51.529603,-0.22954,Medium,Medium,60,4,1,09:00,11:00,Yes,Morning,"Meal Preparation, Mobility Support, Personal Care",Male,English,Wheelchair,No,High
+P0498,51.325678,0.017211,Low,Low,60,3,1,10:00,14:00,No,Morning,Meal Preparation,No Preference,Arabic,Independent,No,Low
+P0499,51.422414,0.101169,High,High,90,11,2,06:00,09:00,No,Morning,"Dementia Care, Mobility Support, Medication Support",Female,Punjabi,Bedbound,Yes,High
+P0500,51.366317,-0.338525,High,High,90,13,4,06:00,09:00,Yes,Morning,"Mobility Support, Medication Support, Palliative Care",Male,Hindi,Bedbound,Yes,Medium
